@@ -859,12 +859,13 @@ body {
     padding: 60px 30px; }
   .info__divider:first-child {
     border-top: 1px solid #545454; }
-  .info__clients {
+  .info .clients ul {
     -webkit-column-count: 3;
        -moz-column-count: 3;
-            column-count: 3; }
+            column-count: 3;
+    text-align: left; }
     @media (max-width: 991px) {
-      .info__clients {
+      .info .clients ul {
         -webkit-column-count: 1;
            -moz-column-count: 1;
                 column-count: 1; } }

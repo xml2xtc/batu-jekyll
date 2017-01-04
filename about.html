@@ -6,7 +6,7 @@ layout: default
 <main class="central-box info">
   {% assign items = site.about | sort: 'order' %}
   {% for section in items %}
-  <section class='info__divider'>
+  <section class='info__divider {{ section.title }}'>
     {{ section.content }}
   </section>
   {% endfor %}

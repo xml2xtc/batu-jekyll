@@ -1,62 +1,61 @@
 ---
-title: Clients
+title: clients
 layout: default
 order: 3
 ---
 
-<h2>Clients</h2>
-<ul class='info__clients'>
-  <li>A.T. Corner</li>
-  <li>Alyx</li>
-  <li>American Eagle</li>
-  <li>Another Magazine</li>
-  <li>Artists Space</li>
-  <li>Barneys New York</li>
-  <li>Berndadette Corporation</li>
-  <li>Bloomingdales</li>
-  <li>C&A Stores</li>
-  <li>Calvin Klein</li>
-  <li>Curieux London</li>
-  <li>David Yurman</li>
-  <li>Dazed & Confused</li>
-  <li>Didier Dubot</li>
-  <li>Dimy</li>
-  <li>Document Journal</li>
-  <li>Dona Karan</li>
-  <li>Elle Brasil</li>
-  <li>Elle Korea</li>
-  <li>Elle US</li>
-  <li>Gagosian</li>
-  <li>Gavin Brown Enterprises</li>
-  <li>Harper's Bazaar Brasil</li>
-  <li>Harper's Bazaar Korea</li>
-  <li>ID Magazine</li>
-  <li>Iodice</li>
-  <li>J. Estina</li>
-  <li>Jill Stuart</li>
-  <li>L'ETAGE</li>
-  <li>Lua Lua</li>
-  <li>Maison Alexandrine</li>
-  <li>New Balance</li>
-  <li>Nine West</li>
-  <li>NY Post - Alexa</li>
-  <li>PF Flyers</li>
-  <li>Preen</li>
-  <li>Puma</li>
-  <li>Purple Magazine</li>
-  <li>Rad Hourani</li>
-  <li>Ralph Lauren</li>
-  <li>Regime des Fleurs</li>
-  <li>T Magazine</li>
-  <li>Talbots</li>
-  <li>Target</li>
-  <li>The New York Times</li>
-  <li>Tommy Hilfiger</li>
-  <li>Vogue Brasil</li>
-  <li>Vogue Japan</li>
-  <li>Vogue Korea</li>
-  <li>Vogue Paris</li>
-  <li>W Magazine</li>
-  <li>W Magazine Korea</li>
-  <li>Wonderland Magazine</li>
-</ul>
+## Clients
+
+* A.T. Corner
+* Alyx
+* American Eagle
+* Another Magazine
+* Artists Space
+* Barneys New York
+* Berndadette Corporation
+* Bloomingdales
+* C&A Stores
+* Calvin Klein
+* Curieux London
+* David Yurman
+* Dazed & Confused
+* Didier Dubot
+* Dimy
+* Document Journal
+* Dona Karan
+* Elle Brasil
+* Elle Korea
+* Elle US
+* Gagosian
+* Gavin Brown Enterprises
+* Harper's Bazaar Brasil
+* Harper's Bazaar Korea
+* ID Magazine
+* Iodice
+* J. Estina
+* Jill Stuart
+* L'ETAGE
+* Lua Lua
+* Maison Alexandrine
+* New Balance
+* Nine West
+* NY Post - Alexa
+* PF Flyers
+* Preen
+* Puma
+* Purple Magazine
+* Rad Hourani
+* Ralph Lauren
+* Regime des Fleurs
+* T Magazine
+* Talbots
+* Target
+* The New York Times
+* Tommy Hilfiger
+* Vogue Brasil
+* Vogue Japan
+* Vogue Korea
+* Vogue Paris
+* W Magazine
+* W Magazine Korea
+* Wonderland Magazine
