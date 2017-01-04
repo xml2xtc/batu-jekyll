@@ -3,41 +3,29 @@ title: Home
 layout: default
 ---
 
-<main>
+<main class="home">
   {% for section in site.home-sections %}
-  <section class="full-screen-widget background-section">
-    <h3 class="aligned-text">{{ section.title }}</h3>
-    <img src="{{ section.background_img}}" alt="{{ section.title }}">
-  </section>
+    {% if section.video_url %}
+      <section class="full-screen-widget full-screen-widget--video">
+        <h3 class="aligned-text"><a href="{{ section.link_url }}">{{ section.title }}</a></h3>
+        <div class="fluid-width-video-wrapper">
+          <video src="https://player.vimeo.com/external/173519130.hd.mp4?s=2461994fd4f74a798d53e05e552011d32b023e25&profile_id=174" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
+          <i class="video-gif video-gif-sheyk"></i>
+        </div>
+      </section>
+    {% else %}
+      <section class="full-screen-widget background-section">
+        <h3 class="aligned-text"><a href="{{ section.link_url }}">{{ section.title }}</a></h3>
+        <img src="{{ section.background_image}}" alt="{{ section.title }}">
+      </section>
+    {% endif %}
   {% endfor %}
+
   <section class="full-screen-widget full-screen-widget--video">
     <h3 class="aligned-text">Feature Video</h3>
     <div class="fluid-width-video-wrapper">
-      <video autoplay src="https://player.vimeo.com/external/189938815.hd.mp4?s=03331933e638c4a70ac52b339e74eb9fa3fc5e88&profile_id=174" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
-      <i class="video-gif video-gif-arsenal"></i>
-    </div>
-  </section>
-  <!-- <section class="full-screen-widget background-section">
-    <h3 class="aligned-text">Featured Project</h3>
-    <img src="/images/home3.jpg" alt="picture">
-  </section>
-  <section class="full-screen-widget full-screen-widget--video">
-    <h3 class="aligned-text">Feature Video</h3>
-    <div class="fluid-width-video-wrapper">
-      <video src="https://player.vimeo.com/external/173519130.hd.mp4?s=2461994fd4f74a798d53e05e552011d32b023e25&profile_id=174" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
+      <video src="https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/2987/7/189938815/630336191.mp4?token=586db973_0x48e2401695c5618b5fd88aa2a860afda281a2877" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
       <i class="video-gif video-gif-sheyk"></i>
     </div>
   </section>
-  <section class="full-screen-widget background-section">
-    <h3 class="aligned-text">Featured Project</h3>
-    <img src="/images/home4.jpg" alt="picture">
-  </section>
-  <section class="full-screen-widget background-section">
-    <h3 class="aligned-text">Featured Project</h3>
-    <img src="/images/home5.jpg" alt="picture">
-  </section>
-  <section class="full-screen-widget background-section">
-    <h3 class="aligned-text">Featured Project</h3>
-    <img src="/images/home6-2.png" alt="picture">
-  </section> -->
 </main>

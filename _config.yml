@@ -17,6 +17,7 @@ collections:
   projects:
     title: Projects
     output: true
+    layout: default
   uploads:
     title: Uploads
     output: true

@@ -23,7 +23,7 @@
     &__divider:first-child {
       border-top: 1px solid $dark-gray;
     }
-    .clients ul {
+    .Clients ul {
       column-count: 3;
       text-align: left;
       @include breakpoint(small) {
