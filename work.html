@@ -18,7 +18,8 @@ layout: default
 
     <div class="archive-gallery fluid-box fluid-box--small-paddings" id="archive-gallery">
 
-      {% for project in site.projects %}
+      {% assign sorted_projects = site.projects | sort:"position" %}
+      {% for project in sorted_projects %}
       <a href="{{ project.url }}" class="archive-gallery__item {{ project.categories }}" >
         <img class="lazy" data-original="{{ project.thumbnail_image }}" alt="picture">
         <p>{{ project.title }}</p>

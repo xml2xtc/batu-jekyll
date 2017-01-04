@@ -1,7 +1,6 @@
 ---
 title: clients
 layout: default
-order: 3
 ---
 
 ## Clients

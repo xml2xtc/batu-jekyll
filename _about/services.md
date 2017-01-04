@@ -1,6 +1,5 @@
 ---
 title: Services
-order: 2
 layout: default
 ---
 
