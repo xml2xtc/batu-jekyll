@@ -1,6 +1,8 @@
 ---
-layout: default
 title: Wonderland
-category: advertising
+categories:
+- advertising
+layout: default
 thumbnail_img: "/images/thumbnail1.jpg"
 ---
+
