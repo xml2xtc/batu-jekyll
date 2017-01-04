@@ -1,4 +1,14 @@
-name: Your New Jekyll Site
+name: Batu
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+collections:
+  about:
+    title: About
+    output: false
+  projects:
+    title: Projects
+    output: true
+  home-sections:
+    title: Home Sections
+    output: false
