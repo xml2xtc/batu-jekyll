@@ -1,5 +1,5 @@
 ---
-title: clients
+title: Clients
 layout: default
 ---
 
