@@ -2,7 +2,7 @@
 title: Demo 1
 categories:
 - advertising
-position: 0
+position: 1
 layout: default
 thumbnail_image: "/images/thumbnail1.jpg"
 ---
