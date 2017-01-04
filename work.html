@@ -20,7 +20,7 @@ layout: default
 
       {% for project in site.projects %}
       <a href="{{ project.url }}" class="archive-gallery__item {{ project.category }}" >
-        <img class="lazy" data-original="{{ project.thumbnail_img }}" alt="picture">
+        <img class="lazy" data-original="{{ project.thumbnail_image }}" alt="picture">
         <p>{{ project.title }}</p>
       </a>
       {% endfor %}
