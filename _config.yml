@@ -1,4 +1,17 @@
+---
+title: Batu Jekyll
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Your New Jekyll Site
 markdown: redcarpet
-highlighter: pygments # or rouge or null
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+highlighter: pygments
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
