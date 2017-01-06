@@ -17,7 +17,7 @@ collections:
   projects:
     title: Projects
     output: true
-    layout: default
+    layout: project
     permalink: /projects/:path/
   uploads:
     title: Uploads
