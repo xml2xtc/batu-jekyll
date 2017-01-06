@@ -1,6 +1,7 @@
 ---
 title: Services
 layout: default
+position: 1
 ---
 
 ## Services
