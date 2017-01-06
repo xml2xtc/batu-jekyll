@@ -1,7 +1,7 @@
 ---
 title: Clients
-layout: default
 position: 2
+layout: default
 ---
 
 ## Clients

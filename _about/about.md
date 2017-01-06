@@ -1,7 +1,7 @@
 ---
 title: About
-layout: default
 position: 0
+layout: default
 ---
 
 ## About
