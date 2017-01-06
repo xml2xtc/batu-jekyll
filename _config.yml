@@ -17,8 +17,8 @@ collections:
   projects:
     title: Projects
     output: true
+    permalink: "/projects/:path/"
     layout: project
-    permalink: /projects/:path/
   uploads:
     title: Uploads
     output: true
