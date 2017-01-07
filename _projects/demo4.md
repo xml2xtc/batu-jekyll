@@ -1,15 +1,11 @@
 ---
-title: Demo 4
+title: ELLE Brasil - Stella Maxwell
 categories:
 - events
 - editorial
 credits: some credit go here
-layout: project
 thumbnail_image: "/images/thumbnail4.jpg"
-images:
-- path: ''
-  class: ''
 has_video: false
-video_embed: 
+layout: project
 ---
 
