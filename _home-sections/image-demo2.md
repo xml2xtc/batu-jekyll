@@ -1,8 +1,8 @@
 ---
 title: Demo Title
 layout: default
-link: www.google.com
+link: /projects/demo1/
 background_image: "/images/home3.jpg"
-video_url: 
+is_video: false
+video_url:
 ---
-

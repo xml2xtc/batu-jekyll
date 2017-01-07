@@ -6,5 +6,6 @@ position: 1
 credits: some credit go here
 layout: project
 thumbnail_image: "/images/thumbnail2.jpg"
+has_video: false
+video_embed: 
 ---
-

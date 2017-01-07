@@ -1,11 +1,12 @@
 ---
-title: Demo 3
+title: Demo 4
 categories:
 - events
-position: 2
+- editorial
+position: 3
 credits: some credit go here
 layout: project
-thumbnail_image: "/images/thumbnail3.jpg"
+thumbnail_image: "/images/thumbnail4.jpg"
 has_video: false
 video_embed: 
 ---

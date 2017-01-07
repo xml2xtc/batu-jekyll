@@ -10,10 +10,16 @@ layout: default
 
   <div class="project__wrapper">
     {% for image in page.images %}
-    <div class="project_block project_block--half">
-      <img src="{{ image }}" class="none">
+    <div class="project_block project_block--{{ image.class }}">
+      <img src="{{ image.path }}" class="none">
     </div>
     {% endfor %}
+
+    {% if page.has_video %}
+    <div class="project_block project_block">
+      {{ page.video_embed }}
+    </div>
+    {% endif %}
   </div>
 
 </main>
