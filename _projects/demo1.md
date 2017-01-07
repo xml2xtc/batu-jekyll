@@ -1,21 +1,28 @@
 ---
-title: Demo 1
+title: Vogue Brasil
 categories:
 - advertising
 - editorial
-credits: some credit go here
-thumbnail_image: "/images/thumbnail1.jpg"
+credits: 'Photographer: Giampaolo Sgurra - Stylist: Anna dello Russo'
+thumbnail_image: "/uploads/VG_0213_05.jpg"
 images:
-- path: "/images/project4.jpg"
-  class: full
-- path: "/images/project1.jpg"
+- path: "/uploads/Main-2fb8ac.jpg"
   class: half
-- path: "/images/project1.jpg"
-  class: half
-- path: "/images/project2.jpg"
+- path: "/uploads/pic1.jpg"
   class: full
-layout: project
+- path: "/uploads/VG_0213_02.jpg"
+  class: half
+- path: "/uploads/VG_0213_03-1.jpg"
+  class: full
+- path: "/uploads/VG_0213_04.jpg"
+  class: full
+- path: "/uploads/VG_0213_05-7a59e3.jpg"
+  class: full
+- path: "/uploads/VG_0213_06.jpg"
+  class: full
+- path: "/uploads/VG_0213_07.jpg"
+  class: full
 has_video: false
-video_embed: 
+layout: project
 ---
 
