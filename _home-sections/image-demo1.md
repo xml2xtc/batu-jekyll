@@ -1,9 +1,9 @@
 ---
-title: Demo Title
-layout: default
+title: BERNADETTE CORPORATION 2000 WASTED YEARS x ARTISTS SPACE
 link: "/projects/demo1/"
-background_image: "/images/home1.jpg"
+background_image: "/uploads/Image1.png"
 is_video: false
 video_url: 
+layout: default
 ---
 
