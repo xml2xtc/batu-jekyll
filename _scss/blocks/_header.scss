@@ -58,6 +58,7 @@
         background-repeat: no-repeat;
         background-position: 50% 50%;
         outline: none;
+        margin-left: auto;
     }
 
     @include breakpoint(small) {

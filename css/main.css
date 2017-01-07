@@ -507,7 +507,8 @@ body {
     background-image: url("../images/menu.png");
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    outline: none; }
+    outline: none;
+    margin-left: auto; }
   @media (max-width: 991px) {
     .header {
       padding-bottom: 18px; }
