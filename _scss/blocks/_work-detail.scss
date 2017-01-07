@@ -1,0 +1,31 @@
+.work-detail {
+  width: 80%;
+  max-width: 1400px;
+  margin: auto;
+  .project__header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .project__wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .project_block {
+    padding: 10px;
+
+    img {
+      min-width: 100%;
+    }
+  }
+  .project_block--half {
+    width: 50%;
+  }
+  .project_block--full {
+    width: 100%;
+  }
+
+}

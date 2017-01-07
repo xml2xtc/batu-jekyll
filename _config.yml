@@ -1,0 +1,58 @@
+---
+title: Batu Jekyll
+timezone: UTC
+collections:
+  about:
+    title: About
+    output: false
+  clients:
+    title: Clients
+    output: false
+  home-sections:
+    title: Home Sections
+    output: false
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projects/:path/"
+    layout: project
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: projects
+  values:
+    title: ''
+    categories:
+    - editorial
+    position: 5
+    credits: some credit go here
+    layout: project
+    thumbnail_image: ''
+    images:
+    - path: ''
+      class: ''
+    has_video: false
+    video_embed: ''
+- scope:
+    path: ''
+    type: home_sections
+  values:
+    title: Demo Title
+    layout: default
+    link: ''
+    background_image: "/images/home3.jpg"
+    is_video: false
+    video_url: ''
+name: Batu
+markdown: redcarpet
+highlighter: pygments
+exclude:
+- node_modules
+- gulpfile.js
+- package.json

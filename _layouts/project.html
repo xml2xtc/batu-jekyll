@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<main class="work-detail inner">
+  <div class="project__header">
+    <h1>{{ page.title }}</h1>
+    <h3>{{ page.credits }}</h3>
+  </div>
+
+  <div class="project__wrapper">
+    {% for image in page.images %}
+    <div class="project_block project_block--{{ image.class }}">
+      <img src="{{ image.path }}" class="none">
+    </div>
+    {% endfor %}
+
+    {% if page.has_video %}
+    <div class="project_block project_block">
+      <div class="embed-container">
+        {{ page.video_embed }}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+
+</main>

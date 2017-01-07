@@ -1,0 +1,30 @@
+---
+title: Home
+layout: default
+---
+
+<main class="home">
+  {% for section in site.home-sections %}
+    {% if section.is_video %}
+      <section class="full-screen-widget full-screen-widget--video">
+        <h3 class="aligned-text"><a href="{{ section.link }}">Feature Video</a></h3>
+        <div class="fluid-width-video-wrapper">
+          <video autoplay src="{{ section.video_url }}" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
+          <i class="video-gif video-gif-sheyk"></i>
+        </div>
+      </section>
+    {% else %}
+      <section class="full-screen-widget background-section">
+        <h3 class="aligned-text"><a href="{{ section.link }}">{{ section.title }}</a></h3>
+        <img src="{{ section.background_image}}" alt="{{ section.title }}">
+      </section>
+    {% endif %}
+  {% endfor %}
+  <!-- <section class="full-screen-widget full-screen-widget--video">
+    <h3 class="aligned-text">Feature Video</h3>
+    <div class="fluid-width-video-wrapper">
+      <video autoplay src="https://player.vimeo.com/external/189938815.hd.mp4?s=03331933e638c4a70ac52b339e74eb9fa3fc5e88&profile_id=174" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
+      <i class="video-gif video-gif-sheyk"></i>
+    </div>
+  </section> -->
+</main>
