@@ -1,6 +1,7 @@
 ---
 title: Harper's Bazaar Brasil
 date: 2017-01-07 02:28:00 Z
+position: 3
 credits: 'Photographer: David Roemer - Stylist: Keegan Singh'
 thumbnail_image: "/uploads/Main-4abd30.jpg"
 images:

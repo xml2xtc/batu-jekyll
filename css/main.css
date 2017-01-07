@@ -682,9 +682,6 @@ body {
     font-style: normal; }
   .info address, .info p {
     margin-bottom: 20px; }
-  @media (max-width: 991px) {
-    .info {
-      margin-top: 0; } }
   @media (max-width: 380px) {
     .info {
       padding-left: 15px;
