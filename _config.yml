@@ -47,7 +47,6 @@ defaults:
     is_video: false
     video_url: ''
 name: Batu
-markdown: redcarpet
 highlighter: pygments
 exclude:
 - node_modules
