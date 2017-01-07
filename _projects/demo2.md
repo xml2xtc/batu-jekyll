@@ -1,15 +1,18 @@
 ---
-title: Demo 2
+title: Nine West
 categories:
-- editorial
 - advertising
-credits: some credit go here
-layout: project
-thumbnail_image: "/images/thumbnail2.jpg"
+thumbnail_image: "/uploads/MAIN-00a0ee.jpg"
 images:
-- path: ''
-  class: ''
+- path: "/uploads/NW_FW12_05.jpg"
+  class: full
+- path: "/uploads/NW_FW12_04.jpg"
+  class: full
+- path: "/uploads/NW_FW12_03.jpg"
+  class: full
+- path: "/uploads/MAIN-acaeae.jpg"
+  class: full
 has_video: false
-video_embed: 
+layout: project
 ---
 
