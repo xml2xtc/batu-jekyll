@@ -5,6 +5,7 @@ categories:
 position: 0
 credits: some credit go here
 thumbnail_image: "/images/thumbnail1.jpg"
+has_video: false
 images:
 - path: "/images/project4.jpg"
   class: full
@@ -15,7 +16,5 @@ images:
 - path: "/images/project2.jpg"
   class: full
 layout: project
-has_video: false
-video_embed: 
 ---
 
