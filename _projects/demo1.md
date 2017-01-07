@@ -9,8 +9,6 @@ images:
   class: half
 - path: "/uploads/pic1.jpg"
   class: full
-- path: "/uploads/VG_0213_02.jpg"
-  class: half
 - path: "/uploads/VG_0213_03-1.jpg"
   class: full
 - path: "/uploads/VG_0213_04.jpg"
