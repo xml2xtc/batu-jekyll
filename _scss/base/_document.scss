@@ -19,7 +19,7 @@ body {
     }
     flex-wrap: wrap;
     align-content: space-between;
-    height: 100vh;
+    min-height: 100vh;
 
     &.home {
         padding-top: 0;

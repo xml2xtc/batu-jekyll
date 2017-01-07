@@ -5,7 +5,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100vw;
+    width: 100%;
+    box-sizing: border-box;
     padding-top: 6px;
     padding-right: 22px;
     padding-bottom: 13px;
