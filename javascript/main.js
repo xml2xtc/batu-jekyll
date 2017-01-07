@@ -78,7 +78,7 @@ function initPreLoader() {
 }
 $(document).ready(function($) {
 // init events
- initEvents();   
+ initEvents();
 });
 
 
@@ -312,6 +312,7 @@ function initEvents() {
             initHtmlVideos();
             initPreLoader();
 
+
         });
     $(window).load(function() {
         strechSliderPage();
@@ -326,3 +327,4 @@ function initEvents() {
 //for touch devices
 $('html.touchevents .full-screen-widget--video').find('video').hide();
 $('html.touchevents .full-screen-widget--video').find('i').show();
+// $(".embed-container").fitVids();
