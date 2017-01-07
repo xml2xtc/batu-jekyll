@@ -5,7 +5,7 @@ html {
 
 body {
     //height: 100%;
-    padding-top: 45px;
+    padding-top: 48px;
     background-color: #f7f7f7;
     text-transform: uppercase;
     display: flex;
@@ -26,12 +26,12 @@ body {
     }
 
     @include breakpoint(extra-small) {
-        padding-top: 80px;
+        padding-top: 51px;
     }
 
 
     @include breakpoint(mobile-landscape-small) {
-        padding-top: 60px;
+        padding-top: 51px;
     }
 
     button {
