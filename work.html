@@ -20,6 +20,7 @@ layout: default
 
       {% assign sorted_projects = site.projects | sort:"position" %}
       {% for project in sorted_projects %}
+        {% assign classes = "" %}
         {% for category in project.categories %}
           {% assign classes = classes | append: category | append: " " %}
         {% endfor %}
