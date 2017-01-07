@@ -1,5 +1,5 @@
 ---
-title: About
+title: SERVICES
 position: 0
 layout: default
 ---
