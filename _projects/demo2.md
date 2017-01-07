@@ -10,5 +10,6 @@ images:
 - path: ''
   class: ''
 has_video: false
-video_embed:
+video_embed: 
 ---
+
