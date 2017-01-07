@@ -5,11 +5,11 @@ categories:
 - editorial
 position: 6
 credits: 'Photographer: Mariano Vivanco'
-thumbnail_image: "/uploads/Rihanna-Vogue-Brazil-1.jpg"
+thumbnail_image: "/uploads/rihanna-vogue-brazil-cover-800x1068.jpg"
 images:
 - path: "/uploads/Main-206a81.jpg"
   class: half
-- path: "/uploads/Rihanna-Vogue-Brazil-1-c1b92a.jpg"
+- path: "/uploads/rihanna-vogue-brazil-cover-800x1068-5ecb76.jpg"
   class: half
 - path: "/uploads/Who-What-Wear-Rihanna-Vogue-Brazil-May-2014-3.png"
   class: half
