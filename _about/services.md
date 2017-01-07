@@ -15,7 +15,7 @@ Photography, Video, Events, Estimating \+ Budget Management, Scheduling, Post Pr
 Street casting, Professional models
 
 ### Locations
-Scouting (US \+ Abroad), Permitting
+Scouting (US \+ Abroad), Permitting, Travel
 
 ### PR/ Media Strategy
 
@@ -23,4 +23,4 @@ Sponsorship, Media Strategy \+ Implementation
 
 ### Art Direction
 
-Content Development, Branding, Art Buying
+Content Creation, Brand Strategy + Identity, Image Consulting, Design
