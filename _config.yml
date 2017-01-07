@@ -5,15 +5,9 @@ collections:
   about:
     title: About
     output: false
-  clients:
-    title: Clients
-    output: false
   home-sections:
     title: Home Sections
     output: false
-  posts:
-    title: Posts
-    output: true
   projects:
     title: Projects
     output: true
