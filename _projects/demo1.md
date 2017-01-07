@@ -2,6 +2,7 @@
 title: Demo 1
 categories:
 - advertising
+- editorial
 credits: some credit go here
 thumbnail_image: "/images/thumbnail1.jpg"
 images:
