@@ -9,7 +9,7 @@ thumbnail_image: "/uploads/Main-9d2f72.jpg"
 images:
 - path: "/uploads/Main-18a4ba.jpg"
   class: half
-- path: "/uploads/Natasha-Poly-Vogue-Brazil-Jacques-Dequeker-01.jpg"
+- path: "/uploads/voguebrazil-feb15-natasha-article.jpg"
   class: half
 - path: "/uploads/Natasha-Poly-Vogue-Brazil-Jacques-Dequeker-02-620x861.jpg"
   class: half
