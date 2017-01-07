@@ -9,7 +9,7 @@ thumbnail_image: "/uploads/MAIN-149e9b.png"
 images:
 - path: "/uploads/MAIN-521f45.png"
   class: half
-- path: 
+- path: "/uploads/CS_therese2.png"
   class: half
 - path: "/uploads/CS_therese.png"
   class: half
