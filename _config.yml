@@ -29,8 +29,8 @@ defaults:
     layout: project
     thumbnail_image: ''
     images:
-    - path: ""
-      class: ""
+    - path: ''
+      class: ''
     has_video: false
     video_embed: ''
 - scope:
