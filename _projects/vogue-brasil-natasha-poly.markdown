@@ -11,11 +11,5 @@ images:
   class: half
 - path: "/uploads/voguebrazil-feb15-natasha-article.jpg"
   class: half
-- path: "/uploads/Natasha-Poly-Vogue-Brazil-Jacques-Dequeker-02-620x861.jpg"
-  class: half
-- path: "/uploads/Natasha-Poly-Vogue-Brazil-Jacques-Dequeker-06-620x829.jpg"
-  class: half
-- path: "/uploads/Natasha-Poly-Vogue-Brazil-Jacques-Dequeker-08-620x935.jpg"
-  class: half
 ---
 
