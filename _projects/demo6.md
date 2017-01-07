@@ -3,6 +3,7 @@ title: Demo 6
 categories:
 - events
 - editorial
+- video
 credits: some credit go here
 layout: project
 thumbnail_image: "/images/thumbnail6.gif"

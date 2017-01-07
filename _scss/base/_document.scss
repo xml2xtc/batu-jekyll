@@ -9,7 +9,8 @@ body {
     background-color: #f7f7f7;
     text-transform: uppercase;
     display: flex;
-
+    flex-direction: column;
+    box-sizing: border-box;
     main, footer {
         width: 100%;
     }
@@ -18,7 +19,7 @@ body {
     }
     flex-wrap: wrap;
     align-content: space-between;
-    height: 100vh;
+    min-height: 100vh;
 
     &.home {
         padding-top: 0;

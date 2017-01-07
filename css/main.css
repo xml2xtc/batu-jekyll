@@ -428,11 +428,14 @@ body {
   text-transform: uppercase;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  box-sizing: border-box;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   -ms-flex-line-pack: justify;
       align-content: space-between;
-  height: 100vh; }
+  min-height: 100vh; }
   body main, body footer {
     width: 100%; }
   body .inner {
@@ -466,7 +469,8 @@ body {
       justify-content: space-between;
   -ms-flex-align: center;
       align-items: center;
-  width: 100vw;
+  width: 100%;
+  box-sizing: border-box;
   padding-top: 6px;
   padding-right: 22px;
   padding-bottom: 13px;
@@ -659,8 +663,7 @@ body {
   .info .Clients ul {
     -webkit-column-count: 3;
        -moz-column-count: 3;
-            column-count: 3;
-    text-align: left; }
+            column-count: 3; }
     @media (max-width: 991px) {
       .info .Clients ul {
         -webkit-column-count: 1;
