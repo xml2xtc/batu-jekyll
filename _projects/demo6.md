@@ -1,17 +1,16 @@
 ---
-title: Demo 6
+title: Puma x Arsenal Football Club 2016
 categories:
-- events
-- editorial
 - video
-credits: some credit go here
-layout: project
+- advertising
+position: 2
+credits: 'Producer: Marcus Chang'
 thumbnail_image: "/images/thumbnail6.gif"
-images:
-- path: ''
-  class: ''
 has_video: true
-video_embed: <iframe src="https://player.vimeo.com/video/173522131" width="1280" height="720"
+video_embed: <iframe src="https://player.vimeo.com/video/189938815" width="640" height="360"
   frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <p><a href="https://vimeo.com/189938815">PUMA x ARSENAL</a> from <a href="https://vimeo.com/user30551234">Batu
+  Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+layout: project
 ---
 
