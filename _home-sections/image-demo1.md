@@ -1,5 +1,5 @@
 ---
-title: BERNADETTE CORPORATION 2000 WASTED YEARS x ARTISTS SPACE
+title: BERNADETTE CORPORATION 2000 WASTED YEARS
 link: "/projects/demo1/"
 background_image: "/uploads/Image1.png"
 is_video: false
