@@ -15,5 +15,6 @@ images:
   class: full
 layout: project
 has_video: false
-video_embed:
+video_embed: 
 ---
+
