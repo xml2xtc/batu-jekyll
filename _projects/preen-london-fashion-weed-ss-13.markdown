@@ -1,5 +1,5 @@
 ---
-title: Preen - London Fashion Week SS 13
+title: Preen by Thornton Bregazzi- London Fashion Week SS 13
 date: 2017-01-07 03:19:00 Z
 categories:
 - events
