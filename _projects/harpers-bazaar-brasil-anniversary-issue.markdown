@@ -1,6 +1,8 @@
 ---
-title: Harper's Bazaar Brasil Anniversary Issue
+title: Harper's Bazaar Brasil - Anniversary Issue
 date: 2017-01-07 03:01:00 Z
+categories:
+- editorial
 position: 2
 credits: 'Photographer: Terry Richardson'
 thumbnail_image: "/uploads/MAIN-2cabec.jpg"
