@@ -2,6 +2,7 @@
 title: Demo 1
 categories:
 - advertising
+- editorial
 credits: some credit go here
 thumbnail_image: "/images/thumbnail1.jpg"
 images:
@@ -15,6 +16,5 @@ images:
   class: full
 layout: project
 has_video: false
-video_embed: 
+video_embed:
 ---
-
