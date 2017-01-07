@@ -2,9 +2,13 @@
 title: Demo 3
 categories:
 - events
-position: 2
 credits: some credit go here
 layout: project
 thumbnail_image: "/images/thumbnail3.jpg"
+images:
+- path: ''
+  class: ''
+has_video: false
+video_embed: 
 ---
 

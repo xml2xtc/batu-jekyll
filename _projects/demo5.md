@@ -1,10 +1,10 @@
 ---
-title: Demo 2
+title: Demo 5
 categories:
-- editorial
+- events
 credits: some credit go here
 layout: project
-thumbnail_image: "/images/thumbnail2.jpg"
+thumbnail_image: "/images/thumbnail5.jpg"
 images:
 - path: ''
   class: ''
