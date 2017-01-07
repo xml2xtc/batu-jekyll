@@ -1,5 +1,5 @@
 ---
-title: Harper's Bazaar Brasil Anniversary Issue
+title: Harper's Bazaar Brasil - Anniversary Issue
 date: 2017-01-07 03:01:00 Z
 categories:
 - editorial
