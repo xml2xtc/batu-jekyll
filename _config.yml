@@ -34,6 +34,9 @@ defaults:
     credits: some credit go here
     layout: project
     thumbnail_image: ''
+    images:
+    - path: ""
+      class: ""
     has_video: false
     video_embed: ''
 - scope:
