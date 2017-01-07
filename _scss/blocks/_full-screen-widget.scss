@@ -5,7 +5,9 @@
     display: flex;
     overflow: hidden;
     justify-content: center;
-
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
     &__half {
         min-height: inherit;
         width: 50%;
