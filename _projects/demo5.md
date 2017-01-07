@@ -2,7 +2,7 @@
 title: Demo 5
 categories:
 - events
-position: 4
+position: 5
 credits: some credit go here
 layout: project
 thumbnail_image: "/images/thumbnail5.jpg"
