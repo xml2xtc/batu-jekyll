@@ -3,7 +3,7 @@ title: PF Flyers
 date: 2017-01-07 05:28:00 Z
 categories:
 - advertising
-position: 6
+position: 
 credit_text: 'Photographer: Josh Goleman'
 thumbnail_image: "/uploads/PF_Website_TS-Rambler-HI_980x503.jpg"
 images:
@@ -22,4 +22,3 @@ images:
 - path: "/uploads/main-ddf389.jpg"
   class: full
 ---
-

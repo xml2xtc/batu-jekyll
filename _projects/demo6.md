@@ -3,7 +3,7 @@ title: Puma x Arsenal Football Club 2016
 categories:
 - video
 - advertising
-position: 2
+position:
 credit_text: 'Producer: Marcus Chang'
 thumbnail_image: "/images/thumbnail6.gif"
 has_video: true

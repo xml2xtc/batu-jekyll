@@ -2,6 +2,7 @@
 title: Nine West
 categories:
 - advertising
+position: 
 thumbnail_image: "/uploads/NW_FW12_04-056bbb.jpg"
 images:
 - path: "/uploads/NW_FW12_05.jpg"
@@ -15,4 +16,3 @@ images:
 has_video: false
 layout: project
 ---
-

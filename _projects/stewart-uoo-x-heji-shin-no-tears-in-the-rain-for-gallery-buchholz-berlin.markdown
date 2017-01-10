@@ -3,6 +3,7 @@ title: Stewart Uoo x Heji Shin "No Tears in the Rain" for Gallery Buchholz Berli
 date: 2017-01-07 04:48:00 Z
 categories:
 - special
+position: 
 credit_text: Stewart Uoo x Heji Shin
 thumbnail_image: "/uploads/00440001.jpg"
 images:
@@ -35,4 +36,3 @@ images:
 - path: "/uploads/SU_19_30inch_V1B_File-1024x672.jpg"
   class: full
 ---
-
