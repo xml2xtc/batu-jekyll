@@ -4,7 +4,7 @@ date: 2017-01-07 04:28:00 Z
 categories:
 - advertising
 position: 7
-credits: 'Photographer: Heji Shin'
+credit_text: 'Photographer: Heji Shin'
 thumbnail_image: "/uploads/01100002.jpg"
 images:
 - path: "/uploads/01290012.jpg"

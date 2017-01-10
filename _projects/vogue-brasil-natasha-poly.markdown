@@ -4,7 +4,7 @@ date: 2017-01-07 03:40:00 Z
 categories:
 - editorial
 position: 15
-credits: 'Photographer: Jaques Deckequer'
+credit_text: 'Photographer: Jaques Deckequer'
 thumbnail_image: "/uploads/Main-9d2f72.jpg"
 images:
 - path: "/uploads/Main-18a4ba.jpg"

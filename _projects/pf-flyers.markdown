@@ -4,7 +4,7 @@ date: 2017-01-07 05:28:00 Z
 categories:
 - advertising
 position: 6
-credits: 'Photographer: Josh Goleman'
+credit_text: 'Photographer: Josh Goleman'
 thumbnail_image: "/uploads/PF_Website_TS-Rambler-HI_980x503.jpg"
 images:
 - path: "/uploads/PF_Website_TS-Rambler-HI_980x503-460e7c.jpg"

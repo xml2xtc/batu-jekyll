@@ -4,7 +4,7 @@ categories:
 - video
 - advertising
 position: 2
-credits: 'Producer: Marcus Chang'
+credit_text: 'Producer: Marcus Chang'
 thumbnail_image: "/images/thumbnail6.gif"
 has_video: true
 video_embed: <iframe src="https://player.vimeo.com/video/189938815" width="640" height="360"
@@ -13,4 +13,3 @@ video_embed: <iframe src="https://player.vimeo.com/video/189938815" width="640" 
   Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 layout: project
 ---
-

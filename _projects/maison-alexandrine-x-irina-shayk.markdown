@@ -4,7 +4,7 @@ date: 2017-01-07 05:33:00 Z
 categories:
 - advertising
 position: 8
-credits: 'Model: Irina Shayk'
+credit_text: 'Model: Irina Shayk'
 images:
 - path: 
   class: full
