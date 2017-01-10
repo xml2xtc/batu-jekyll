@@ -35,7 +35,8 @@ defaults:
     - path: ''
       class: ''
     has_video: false
-    video_embed: ''
+    video_embeds:
+    - video: ''
 - scope:
     path: ''
     type: home-sections
