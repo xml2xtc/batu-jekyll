@@ -3,6 +3,7 @@ title: Maison Alexandrine x Irina Shayk
 date: 2017-01-07 05:33:00 Z
 categories:
 - advertising
+position: 25
 credit_text: 'Model: Irina Shayk'
 images:
 - path: 
