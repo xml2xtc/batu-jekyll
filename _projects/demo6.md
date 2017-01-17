@@ -7,6 +7,7 @@ position: 0
 credit_text: |-
   Producer: Marcus Chang
 
+
   Second Line
 thumbnail_image: "/images/thumbnail6.gif"
 has_video: true
