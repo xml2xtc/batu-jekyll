@@ -41,7 +41,7 @@ defaults:
     path: ''
     type: home-sections
   values:
-    title: ""
+    title: ''
     layout: default
     link: ''
     background_image: ''

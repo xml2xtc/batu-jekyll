@@ -3,7 +3,6 @@ title: Bernadette Corporation 2000 Wasted Years
 categories:
 - special
 - editorial
-position:
 thumbnail_image: "/uploads/MAIN.png"
 images:
 - path: "/uploads/PF_SS13_01.jpg"
@@ -27,3 +26,4 @@ images:
 has_video: false
 layout: project
 ---
+

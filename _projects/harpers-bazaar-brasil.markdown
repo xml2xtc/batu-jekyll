@@ -1,7 +1,6 @@
 ---
 title: Harper's Bazaar Brasil - Eniko Mihalik
 date: 2017-01-07 02:28:00 Z
-position: 
 credit_text: 'Photographer: David Roemer - Stylist: Keegan Singh'
 thumbnail_image: "/uploads/Main-4abd30.jpg"
 images:
@@ -16,3 +15,4 @@ images:
 - path: "/uploads/HBB5.jpg"
   class: full
 ---
+

@@ -3,7 +3,6 @@ title: Puma x Arsenal Football Club 2016
 categories:
 - video
 - advertising
-position:
 credit_text: 'Producer: Marcus Chang'
 thumbnail_image: "/images/thumbnail6.gif"
 has_video: true
@@ -11,6 +10,7 @@ video_embeds:
 - <iframe src="https://player.vimeo.com/video/189938815" width="640" height="360"
   frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 - <iframe src="https://player.vimeo.com/video/189938815" width="640" height="360"
-   frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 layout: project
 ---
+
