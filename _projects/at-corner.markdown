@@ -3,8 +3,7 @@ title: A.T. Corner
 date: 2017-01-07 04:25:00 Z
 categories:
 - advertising
-position: 3
-credits: 'Photographer: KT Auleta - Model: Chloe Sevigny'
+credit_text: 'Photographer: KT Auleta - Model: Chloe Sevigny'
 thumbnail_image: "/uploads/MAIN-c9d6f3.jpg"
 images:
 - path: "/uploads/postfiles2.naver.jpg"

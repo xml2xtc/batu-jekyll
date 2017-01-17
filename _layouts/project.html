@@ -5,23 +5,29 @@ layout: default
 <main class="work-detail inner">
   <div class="project__header">
     <h1>{{ page.title }}</h1>
-    <h3>{{ page.credits }}</h3>
+    {% if page.credit_text %}
+    <h3>{{ page.credit_text }}</h3>
+    {% endif %}
   </div>
 
   <div class="project__wrapper">
+
+    {% if page.has_video %}
+      {% for video in page.video_embeds %}
+      <div class="project_block project_block">
+        <div class="embed-container">
+          {{ video }}
+        </div>
+      </div>
+      {% endfor %}
+    {% endif %}
+
     {% for image in page.images %}
     <div class="project_block project_block--{{ image.class }}">
       <img src="{{ image.path }}" class="none">
     </div>
     {% endfor %}
 
-    {% if page.has_video %}
-    <div class="project_block project_block">
-      <div class="embed-container">
-        {{ page.video_embed }}
-      </div>
-    </div>
-    {% endif %}
   </div>
 
 </main>

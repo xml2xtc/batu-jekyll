@@ -26,24 +26,25 @@ defaults:
   values:
     title: ''
     categories:
-    - editorial
-    position: 5
-    credits: some credit go here
+    - ''
+    position: ''
+    credit_text: ''
     layout: project
     thumbnail_image: ''
     images:
     - path: ''
       class: ''
     has_video: false
-    video_embed: ''
+    video_embeds:
+    - video: ''
 - scope:
     path: ''
-    type: home_sections
+    type: home-sections
   values:
-    title: Demo Title
+    title: ''
     layout: default
     link: ''
-    background_image: "/images/home3.jpg"
+    background_image: ''
     is_video: false
     video_url: ''
 name: Batu
