@@ -11,7 +11,7 @@ credit_text: |-
 thumbnail_image: "/images/thumbnail6.gif"
 has_video: true
 video_embeds:
-- <iframe src="https://player.vimeo.com/video/189938815" width="1280" height="720"
+- <iframe src="https://player.vimeo.com/video/189938815" width="720" height="1280"
   frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 - <iframe src="https://player.vimeo.com/video/189938815" width="1280" height="720"
   frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
