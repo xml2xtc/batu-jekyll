@@ -3,6 +3,7 @@ title: T MAGAZINE
 date: 2017-01-18 19:08:00 Z
 categories:
 - editorial
+position: 4
 thumbnail_image: "/uploads/Main-abe6aa.jpg"
 images:
 - path: "/uploads/Main-d0ac67.jpg"
