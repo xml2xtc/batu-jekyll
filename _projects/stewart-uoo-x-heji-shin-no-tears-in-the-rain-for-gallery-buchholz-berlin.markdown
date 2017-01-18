@@ -4,7 +4,8 @@ date: 2017-01-07 04:48:00 Z
 categories:
 - special
 position: 23
-credit_text: Stewart Uoo x Heji Shin
+credit_text: "Artist: Stewart Uoo \n\nPhotographer: Heji Shin\n\nModels: Juliana Huxtable,
+  Dese Escobar, Elliot Glass"
 thumbnail_image: "/uploads/00440001.jpg"
 images:
 - path: "/uploads/00440001-9faa0d.jpg"
