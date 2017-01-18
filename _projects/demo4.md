@@ -3,7 +3,7 @@ title: ELLE Brasil - Stella Maxwell
 categories:
 - events
 - editorial
-position: 17
+position: 19
 credit_text: some credit go here
 thumbnail_image: "/images/thumbnail4.jpg"
 has_video: false

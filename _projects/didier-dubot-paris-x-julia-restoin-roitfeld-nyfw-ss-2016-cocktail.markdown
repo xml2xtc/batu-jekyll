@@ -3,6 +3,7 @@ title: Didier Dubot Paris x Julia Restoin Roitfeld NYFW SS 2016 Cocktail
 date: 2017-01-18 19:12:00 Z
 categories:
 - event
+position: 8
 thumbnail_image: "/uploads/007_IMG_9650_007.jpg"
 images:
 - path: "/uploads/MAIN-9b16ba.jpg"

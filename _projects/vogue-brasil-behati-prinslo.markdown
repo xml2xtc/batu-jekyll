@@ -3,7 +3,7 @@ title: Vogue Brasil - Behati Prinslo
 date: 2017-01-07 03:37:00 Z
 categories:
 - editorial
-position: 8
+position: 10
 credit_text: 'Photographer: Zee Nunes - Styling: Pedro Sales'
 thumbnail_image: "/uploads/Main-9f115c.jpg"
 images:
