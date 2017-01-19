@@ -2,7 +2,7 @@
 title: Vogue Brasil
 categories:
 - editorial
-position: 2
+position: 3
 credit_text: 'Photographer: Giampaolo Sgurra - Stylist: Anna dello Russo'
 thumbnail_image: "/uploads/VG_0213_05.jpg"
 images:
