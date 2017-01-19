@@ -40,6 +40,7 @@ defaults:
     type: home_sections
   values:
     title: Demo Title
+    has_title: true
     layout: default
     link: ''
     background_image: "/images/home3.jpg"
