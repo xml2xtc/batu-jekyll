@@ -1,6 +1,6 @@
 ---
 title: Opening Day
-position: 3
+position: 1
 has_title: true
 link: "/projects/demo1/"
 is_video: true
