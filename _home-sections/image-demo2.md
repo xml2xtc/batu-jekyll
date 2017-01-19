@@ -1,7 +1,9 @@
 ---
-title: Demo One
-position: 3
-is_video: true
-video_url: https://player.vimeo.com/external/190764082.sd.mp4?s=88aff87c9ab884a0b9cf194fbf184cab94c267be&profile_id=165
+title: Stewart Uoo x Heji Shin for Gallery Buchholz Berlin
+link: 
+background_image: "/uploads/SU_10_30inch_V2_File-1024x679-a810bc.jpg"
+is_video: false
+video_url: 
+layout: default
 ---
 

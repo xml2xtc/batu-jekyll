@@ -3,7 +3,6 @@ title: Vogue Brasil - Natasha Poly
 date: 2017-01-07 03:40:00 Z
 categories:
 - editorial
-position: 11
 credit_text: 'Photographer: Jaques Deckequer'
 thumbnail_image: "/uploads/Main-9d2f72.jpg"
 images:
