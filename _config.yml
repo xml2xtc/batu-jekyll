@@ -27,6 +27,10 @@ defaults:
     title: ''
     categories:
     - editorial
+<<<<<<< HEAD
+=======
+    position: ''
+>>>>>>> a6e1d5c747e1606e576ccfc8d6c9eff56407bf58
     credits: some credit go here
     layout: project
     thumbnail_image: ''
