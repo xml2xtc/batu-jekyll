@@ -1,5 +1,5 @@
 ---
-title: Video Two
+title: Opening Day
 position: 3
 link: "/projects/demo1/"
 is_video: true
