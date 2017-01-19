@@ -4,7 +4,8 @@ layout: default
 ---
 
 <main class="home">
-  {% for section in site.home-sections %}
+  {% assign sorted_sections = site.home-sections | sort:"position" %}
+  {% for section in sorted_sections %}
     {% if section.is_video %}
       <section class="full-screen-widget full-screen-widget--video">
         <h3 class="aligned-text"><a href="{{ section.link }}">{{ section.title }}</a></h3>
