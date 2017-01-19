@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Video Two
 has_title: true
 position: 2
