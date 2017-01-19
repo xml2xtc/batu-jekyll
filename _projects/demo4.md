@@ -2,6 +2,7 @@
 title: ELLE Brasil - Stella Maxwell
 categories:
 - editorial
+position: 2
 thumbnail_image: "/uploads/MAIN-4fc945.jpg"
 images:
 - path: "/uploads/EL339_MODA_STELLAMAX.jpg"

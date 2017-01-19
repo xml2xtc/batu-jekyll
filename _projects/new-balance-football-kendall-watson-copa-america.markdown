@@ -4,7 +4,7 @@ date: 2017-01-09 00:36:00 Z
 categories:
 - advertising
 - video
-position: 9
+position: 40
 thumbnail_image: "/uploads/CopaAmerica.gif"
 has_video: true
 video_embed: <iframe src="https://player.vimeo.com/video/198495780?title=0&byline=0&portrait=0"
