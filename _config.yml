@@ -27,7 +27,6 @@ defaults:
     title: ''
     categories:
     - editorial
-    position: 5
     credits: some credit go here
     layout: project
     thumbnail_image: ''
