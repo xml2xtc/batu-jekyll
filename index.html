@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-<main class="home">
+<main class="home scrollEffect">
   {% assign sorted_sections = site.home-sections | sort:"position" %}
   {% for section in sorted_sections %}
     {% if section.is_video %}
