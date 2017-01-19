@@ -7,7 +7,7 @@ layout: default
   {% for section in site.home-sections %}
     {% if section.is_video %}
       <section class="full-screen-widget full-screen-widget--video">
-        <!-- <h3 class="aligned-text"><a href="{{ section.link }}">{{ section.title }}</a></h3> -->
+        <h3 class="aligned-text"><a href="{{ section.link }}">{{ section.title }}</a></h3>
         <div class="fluid-width-video-wrapper">
           <video autoplay src="{{ section.video_url }}" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
           <i class="video-gif video-gif-sheyk"></i>
@@ -15,7 +15,7 @@ layout: default
       </section>
     {% else %}
       <section class="full-screen-widget background-section">
-        <!-- <h3 class="aligned-text"><a href="{{ section.link }}">{{ section.title }}</a></h3> -->
+        <h3 class="aligned-text"><a href="{{ section.link }}">{{ section.title }}</a></h3>
         <img src="{{ section.background_image}}" alt="{{ section.title }}">
       </section>
     {% endif %}

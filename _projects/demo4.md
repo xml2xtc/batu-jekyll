@@ -1,11 +1,19 @@
 ---
 title: ELLE Brasil - Stella Maxwell
 categories:
-- events
 - editorial
-position: 19
-credit_text: some credit go here
-thumbnail_image: "/images/thumbnail4.jpg"
+thumbnail_image: "/uploads/MAIN-4fc945.jpg"
+images:
+- path: "/uploads/EL339_MODA_STELLAMAX.jpg"
+  class: full
+- path: "/uploads/EL339_MODA_STELLA3.jpg"
+  class: full
+- path: "/uploads/EL339_MODA_STELLA2.jpg"
+  class: full
+- path: "/uploads/EL339_MODA_STELLA.jpg"
+  class: full
+- path: "/uploads/MAIN-7be541.jpg"
+  class: half
 has_video: false
 layout: project
 ---

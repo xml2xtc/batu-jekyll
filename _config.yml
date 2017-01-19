@@ -1,5 +1,5 @@
 ---
-title: Batu Jekyll
+title: Batu Projects
 timezone: UTC
 collections:
   about:
@@ -26,25 +26,24 @@ defaults:
   values:
     title: ''
     categories:
-    - ''
-    position: ''
-    credit_text: ''
+    - editorial
+    position: 5
+    credits: some credit go here
     layout: project
     thumbnail_image: ''
     images:
     - path: ''
       class: ''
     has_video: false
-    video_embeds:
-    - video: ''
+    video_embed: ''
 - scope:
     path: ''
-    type: home-sections
+    type: home_sections
   values:
-    title: ''
+    title: Demo Title
     layout: default
     link: ''
-    background_image: ''
+    background_image: "/images/home3.jpg"
     is_video: false
     video_url: ''
 name: Batu

@@ -3,9 +3,7 @@ title: Stewart Uoo x Heji Shin "No Tears in the Rain" for Gallery Buchholz Berli
 date: 2017-01-07 04:48:00 Z
 categories:
 - special
-position: 23
-credit_text: "Artist: Stewart Uoo \n\nPhotographer: Heji Shin\n\nModels: Juliana Huxtable,
-  Dese Escobar, Elliot Glass"
+credit_text: Stewart Uoo x Heji Shin
 thumbnail_image: "/uploads/00440001.jpg"
 images:
 - path: "/uploads/00440001-9faa0d.jpg"

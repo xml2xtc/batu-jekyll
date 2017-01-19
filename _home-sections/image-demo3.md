@@ -1,9 +1,9 @@
 ---
-title: Stewart Uoo x Heji Shin "No Tears in the Rain"
-position: 2
-link: https://587e93bcba9cf22f30075fa9.preview.siteleaf.com/projects/stewart-uoo-x-heji-shin-no-tears-in-the-rain-for-gallery-buchholz-berlin/
-background_image: "/uploads/SU_10_30inch_V2_File-1024x679-ae6de0.jpg"
-is_video: false
+title: PUMA x ARSENAL FOOTBALL CLUB 2016
+link: 
+background_image: 
+is_video: true
+video_url: https://player.vimeo.com/external/190764082.sd.mp4?s=88aff87c9ab884a0b9cf194fbf184cab94c267be&profile_id=165
 layout: default
 ---
 
