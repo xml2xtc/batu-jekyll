@@ -3,7 +3,7 @@ title: Preen by Thornton Bregazzi - New York Fashion Week Spring Summer 2012
 date: 2017-01-10 22:29:00 Z
 categories:
 - events
-position: 56
+position: 57
 thumbnail_image: "/uploads/MAIN-3f6431.jpg"
 images:
 - path: "/uploads/MAIN-8228ea.jpg"
