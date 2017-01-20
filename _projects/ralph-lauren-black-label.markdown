@@ -3,7 +3,7 @@ title: Ralph Lauren Black Label
 date: 2017-01-07 17:56:00 Z
 categories:
 - advertising
-position: 38
+position: 39
 credits: 'Model: Nacho Figuera'
 thumbnail_image: "/uploads/RLB_FW09_01.jpg"
 images:
