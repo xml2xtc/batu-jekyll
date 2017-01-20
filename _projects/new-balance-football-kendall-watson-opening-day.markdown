@@ -4,7 +4,7 @@ date: 2017-01-09 01:36:00 Z
 categories:
 - advertising
 - video
-position: 33
+position: 34
 thumbnail_image: "/uploads/Opening_Day.gif"
 has_video: true
 video_embed: <iframe src="https://player.vimeo.com/video/198494779?title=0&byline=0&portrait=0"

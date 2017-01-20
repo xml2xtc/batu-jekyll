@@ -3,7 +3,7 @@ title: T MAGAZINE
 date: 2017-01-20 19:11:00 Z
 categories:
 - editoria
-position: 34
+position: 35
 thumbnail_image: "/uploads/Main-8c03de.jpg"
 images:
 - path: "/uploads/Main-cf0af9.jpg"

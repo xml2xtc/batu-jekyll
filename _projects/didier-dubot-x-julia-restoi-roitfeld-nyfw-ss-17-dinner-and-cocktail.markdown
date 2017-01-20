@@ -3,7 +3,7 @@ title: DIDIER DUBOT X JULIA RESTOI ROITFELD NYFW SS 17 DINNER & COCKTAIL
 date: 2017-01-20 21:27:00 Z
 categories:
 - event
-position: 30
+position: 31
 thumbnail_image: "/uploads/007_IMG_9650_007.jpg"
 images:
 - path: "/uploads/MAIN-8f37d7.jpg"

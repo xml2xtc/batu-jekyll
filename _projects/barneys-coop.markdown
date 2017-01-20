@@ -3,7 +3,7 @@ title: Barneys Coop
 date: 2017-01-07 18:13:00 Z
 categories:
 - advertising
-position: 44
+position: 45
 thumbnail_image: "/uploads/main-cd970a.jpg"
 images:
 - path: "/uploads/BN_NS12_02.jpg"

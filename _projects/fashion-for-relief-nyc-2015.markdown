@@ -3,7 +3,7 @@ title: FASHION FOR RELIEF - NYC 2015
 date: 2017-01-10 22:00:00 Z
 categories:
 - events
-position: 50
+position: 51
 thumbnail_image: "/uploads/MAIN-1d1fa7.jpg"
 images:
 - path: "/uploads/FFR2015.jpg"
