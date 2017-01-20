@@ -3,7 +3,7 @@ title: Puma x Arsenal Football Club 2016
 categories:
 - video
 - advertising
-position: 25
+position: 0
 thumbnail_image: "/images/thumbnail6.gif"
 has_video: true
 video_embed: <iframe src="https://player.vimeo.com/video/189938815?title=0&byline=0&portrait=0"
