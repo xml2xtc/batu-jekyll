@@ -3,7 +3,7 @@ title: ZERO ZERO VOLUME II
 date: 2017-01-20 19:37:00 Z
 categories:
 - special
-position: 35
+position: 36
 credits: |-
   Photographer: Miles Aldridge
   Styling: Nicola Formichetti
