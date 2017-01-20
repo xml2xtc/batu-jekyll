@@ -3,7 +3,7 @@ title: Purple Magazine
 date: 2017-01-07 03:50:00 Z
 categories:
 - editorial
-position: 29
+position: 30
 credits: 'Photographer: Heji Shin - Creative Direction: Bernadette Van Huy'
 thumbnail_image: "/uploads/scan%201.jpg"
 images:
