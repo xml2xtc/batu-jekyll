@@ -4,7 +4,7 @@ date: 2017-01-07 22:05:00 Z
 categories:
 - video
 - advertising
-position: 42
+position: 51
 credits: 'Model: Irina Shayk'
 thumbnail_image: "/uploads/Irina.gif"
 has_video: true
