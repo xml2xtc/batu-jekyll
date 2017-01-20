@@ -13,7 +13,7 @@ images:
 - path: "/uploads/00150big_592x888.jpg"
   class: half
 - path: "/uploads/00030big_592x888.jpg"
-  class: 
+  class: half
 - path: "/uploads/00300big_592x888.jpg"
   class: half
 - path: "/uploads/00160big_592x888.jpg"
