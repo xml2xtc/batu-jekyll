@@ -3,7 +3,7 @@ title: Harper's Bazaar Brasil - Toni Garrn
 date: 2017-01-07 18:58:00 Z
 categories:
 - editorial
-position: 36
+position: 37
 credits: |-
   • Photographer: David Roemer
   • Stylist: Katie Burnette
