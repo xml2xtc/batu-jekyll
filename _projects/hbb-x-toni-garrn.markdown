@@ -5,7 +5,7 @@ categories:
 - editorial
 - special
 - video
-position: 28
+position: 5
 credits: |-
   Video: Fernando Freire
   Art Direction: Marcus Chang

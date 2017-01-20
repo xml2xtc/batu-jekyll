@@ -3,7 +3,7 @@ title: Vogue Brasil - Calendar Girls
 date: 2017-01-07 04:03:00 Z
 categories:
 - editorial
-position: 20
+position: 21
 credit_text: 'Photographer: Zee Nunes - Styling: Pedro Sales'
 thumbnail_image: "/uploads/332784-800w.jpg"
 images:
