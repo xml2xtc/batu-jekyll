@@ -15,7 +15,7 @@ images:
 - path: "/uploads/Naomi%20Campbell%20Fashion%20Relief%20Charity%20Fashion%20nlptEvm_xfYl.jpg"
   class: half
 - path: "/uploads/JTM-067532-500x808.jpg"
-  class: 
+  class: half
 - path: "/uploads/FFR9-PF-WENN.jpg"
   class: half
 - path: 
