@@ -3,7 +3,7 @@ title: Vogue Brasil - Carol Trentini
 date: 2017-01-07 03:56:00 Z
 categories:
 - editorial
-position: 23
+position: 24
 credit_text: 'Photographer: Fabio Bartlet - Styling: Daniel Ueda'
 thumbnail_image: "/uploads/Main-78fc46.jpg"
 images:
