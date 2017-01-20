@@ -3,7 +3,7 @@ title: J Estina x Kate Bosworth
 date: 2017-01-07 18:35:00 Z
 categories:
 - advertising
-position: 49
+position: 50
 thumbnail_image: "/uploads/MAIN-1073c9.jpg"
 images:
 - path: "/uploads/MAIN-419c35.jpg"
