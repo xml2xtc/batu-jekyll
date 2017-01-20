@@ -6,7 +6,9 @@ categories:
 position: 23
 credits: |-
   Artist: Stewart Uoo
+
   Photographer: Heji Shin
+
   Models: Juliana Huxtable, Dese Escobar, Elliot Glass
 thumbnail_image: "/uploads/00440001.jpg"
 images:
