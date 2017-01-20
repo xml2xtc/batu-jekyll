@@ -11,13 +11,13 @@ images:
   class: full
 - path: "/uploads/IRINA2.png"
   class: half
-- path: "/uploads/141120_CM_DZ_02_035_R1_V3_FINAL_KSM_RGB-1684d1.tif"
+- path: "/uploads/Irina3.png"
   class: half
 - path: "/uploads/DAVIDSON_ZANINE5.jpg"
   class: full
 - path: "/uploads/MAIN-e92e19.jpg"
   class: full
-- path: "/uploads/141120_CM_DZ_06_061_R2_FINAL_KSM_RGB-6bef02.tif"
+- path: "/uploads/IRINA1.png"
   class: half
 - path: "/uploads/Irina5.png"
   class: half
