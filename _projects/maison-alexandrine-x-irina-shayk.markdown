@@ -4,7 +4,7 @@ date: 2017-01-07 05:33:00 Z
 categories:
 - advertising
 position: 42
-credits: 'Model: Irina Shayk'
+credit_text: 'Model: Irina Shayk'
 thumbnail_image: "/uploads/DAVIDSON_ZANINE7.jpg"
 images:
 - path: "/uploads/DAVIDSON_ZANINE7-f1bc12.jpg"

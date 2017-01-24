@@ -5,7 +5,7 @@ categories:
 - video
 - advertising
 position: 18
-credits: BATU Productions
+credit_text: BATU Productions
 thumbnail_image: "/uploads/NB_LACEUP.gif"
 has_video: true
 video_embed: <iframe src="https://player.vimeo.com/video/198600811?title=0&byline=0&portrait=0"

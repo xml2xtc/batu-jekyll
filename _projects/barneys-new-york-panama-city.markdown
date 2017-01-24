@@ -4,7 +4,7 @@ date: 2017-01-07 18:07:00 Z
 categories:
 - advertising
 position: 38
-credits: 'Photographer: Juergen Teller'
+credit_text: 'Photographer: Juergen Teller'
 thumbnail_image: "/uploads/MAIN-1ef74a.jpg"
 images:
 - path: "/uploads/1b.barneys-ss15-juergen-teller.jpg"

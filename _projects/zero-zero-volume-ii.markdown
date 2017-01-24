@@ -4,7 +4,7 @@ date: 2017-01-20 19:37:00 Z
 categories:
 - special
 position: 37
-credits: |-
+credit_text: |-
   Photographer: Miles Aldridge
   Styling: Nicola Formichetti
 thumbnail_image: "/uploads/00Black5-058f0e.jpg"

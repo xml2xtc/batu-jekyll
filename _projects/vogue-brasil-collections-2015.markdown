@@ -4,7 +4,7 @@ date: 2017-01-20 21:50:00 Z
 categories:
 - editorial
 position: 25
-credits: |-
+credit_text: |-
   Photographer: Zee Nunes
   Styling: Pedro Sales
 thumbnail_image: "/uploads/20150625_ZEE_VG_COLECOES_PASTEL_5455-X2.jpg"

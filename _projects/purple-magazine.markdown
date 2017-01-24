@@ -4,7 +4,7 @@ date: 2017-01-07 03:50:00 Z
 categories:
 - editorial
 position: 33
-credits: 'Photographer: Heji Shin - Creative Direction: Bernadette Van Huy'
+credit_text: 'Photographer: Heji Shin - Creative Direction: Bernadette Van Huy'
 thumbnail_image: "/uploads/scan%201.jpg"
 images:
 - path: "/uploads/scan%202.jpg"

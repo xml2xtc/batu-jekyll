@@ -4,7 +4,7 @@ date: 2017-01-07 18:29:00 Z
 categories:
 - advertising
 position: 60
-credits: 'Models: ELLE & Dakota Fanning'
+credit_text: 'Models: ELLE & Dakota Fanning'
 thumbnail_image: "/uploads/21280X1024-J-1-8cf13e.jpg"
 images:
 - path: "/uploads/21280X1024-J-1.jpg"

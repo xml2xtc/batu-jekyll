@@ -4,7 +4,7 @@ date: 2017-01-07 22:46:00 Z
 categories:
 - editorial
 position: 41
-credits: 'Artist: Stewart Uoo'
+credit_text: 'Artist: Stewart Uoo'
 thumbnail_image: "/uploads/MAIN-2d39de.jpg"
 images:
 - path: "/uploads/Document_Stewart%20Uoo.jpg"

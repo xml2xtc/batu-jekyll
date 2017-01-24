@@ -4,7 +4,7 @@ date: 2017-01-07 18:58:00 Z
 categories:
 - editorial
 position: 40
-credits: |-
+credit_text: |-
   • Photographer: David Roemer
   • Stylist: Katie Burnette
 thumbnail_image: "/uploads/CAPA_BAZAAR42.jpg"

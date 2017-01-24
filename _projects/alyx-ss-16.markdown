@@ -4,7 +4,7 @@ date: 2017-01-07 18:31:00 Z
 categories:
 - advertising
 position: 39
-credits: "Phtographer: Matthew Williams \nModel: Molly Blair"
+credit_text: "Phtographer: Matthew Williams \nModel: Molly Blair"
 thumbnail_image: "/uploads/MAIN%20SHOT.png"
 images:
 - path: "/uploads/MAIN%20SHOT-8b2c69.png"

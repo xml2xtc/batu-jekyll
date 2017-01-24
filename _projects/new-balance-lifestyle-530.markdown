@@ -4,7 +4,7 @@ date: 2017-01-07 18:23:00 Z
 categories:
 - advertising
 position: 23
-credits: 'Photographer: KT Auleta'
+credit_text: 'Photographer: KT Auleta'
 thumbnail_image: "/uploads/nb_omni_product_MVL530AW_1.jpg"
 images:
 - path: "/uploads/nb_product_featured_MVL530AW.jpg"
