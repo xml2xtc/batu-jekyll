@@ -6,6 +6,7 @@ categories:
 position: 62
 credit_text: |-
   Photographer: Zee Nunes
+
   Styling: Pedro Sales
 thumbnail_image: "/uploads/MAIN-6e72a5.jpg"
 images:
