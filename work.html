@@ -19,13 +19,17 @@ layout: default
     <div class="archive-gallery fluid-box fluid-box--small-paddings" id="archive-gallery">
 
       {% assign sorted_projects = site.projects | sort:"position" %}
+
       {% for project in sorted_projects %}
-        {% assign classes = "" %}
-        {% for category in project.categories %}
-          {% assign classes = classes | append: category | append: " " %}
-        {% endfor %}
-        <a href="{{ project.url }}" class="archive-gallery__item {{ classes }}" >
+        <a href="{{ project.url }}" class="archive-gallery__item
+          {% for category in project.categories %}
+            {{ category | append: " " }}
+          {% endfor %}
+        " >
           <img class="lazy" data-original="{{ project.thumbnail_image }}" alt="picture">
+          {% for category in project.categories %}
+            {{ category | append: " " }}
+          {% endfor %}
           <p>{{ project.title }}</p>
         </a>
       {% endfor %}

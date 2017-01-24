@@ -26,7 +26,7 @@ defaults:
   values:
     title: ''
     categories:
-    - editorial
+    - ""
     credit_text: ''
     layout: project
     thumbnail_image: ''
