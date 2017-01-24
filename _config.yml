@@ -27,19 +27,20 @@ defaults:
     title: ''
     categories:
     - editorial
-    credit_text: some credit go here
+    credit_text: ''
     layout: project
     thumbnail_image: ''
     images:
     - path: ''
       class: ''
     has_video: false
-    video_embed: ''
+    video_embeds:
+    - ''
 - scope:
     path: ''
     type: home_sections
   values:
-    title: Demo Title
+    title: ''
     has_title: true
     layout: default
     link: ''
