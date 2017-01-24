@@ -27,7 +27,7 @@ defaults:
     title: ''
     categories:
     - editorial
-    credit_text: ""
+    credit_text: ''
     layout: project
     thumbnail_image: ''
     images:
@@ -35,12 +35,12 @@ defaults:
       class: ''
     has_video: false
     video_embeds:
-      - ''
+    - ''
 - scope:
     path: ''
     type: home_sections
   values:
-    title: ""
+    title: ''
     has_title: true
     layout: default
     link: ''
