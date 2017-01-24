@@ -6,7 +6,7 @@ categories:
 - special
 - video
 position: 5
-credits: |-
+credit_text: |-
   Video: Fernando Freire
   Art Direction: Marcus Chang
   Model: Toni Garrn

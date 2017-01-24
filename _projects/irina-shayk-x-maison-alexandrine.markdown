@@ -5,7 +5,7 @@ categories:
 - video
 - advertising
 position: 57
-credits: 'Model: Irina Shayk'
+credit_text: 'Model: Irina Shayk'
 thumbnail_image: "/uploads/Irina.gif"
 has_video: true
 video_embed: <iframe src="https://player.vimeo.com/video/195672839?title=0&byline=0&portrait=0"

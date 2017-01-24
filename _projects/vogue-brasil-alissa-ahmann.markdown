@@ -4,7 +4,7 @@ date: 2017-01-20 19:16:00 Z
 categories:
 - editorial
 position: 62
-credits: |-
+credit_text: |-
   Photographer: Zee Nunes
   Styling: Pedro Sales
 thumbnail_image: "/uploads/MAIN-6e72a5.jpg"

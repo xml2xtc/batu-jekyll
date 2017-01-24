@@ -4,7 +4,7 @@ date: 2017-01-07 04:48:00 Z
 categories:
 - special
 position: 26
-credits: |-
+credit_text: |-
   Artist: Stewart Uoo
 
   Photographer: Heji Shin
