@@ -27,9 +27,6 @@ layout: default
           {% endfor %}
         " >
           <img class="lazy" data-original="{{ project.thumbnail_image }}" alt="picture">
-          {% for category in project.categories %}
-            {{ category | append: " " }}
-          {% endfor %}
           <p>{{ project.title }}</p>
         </a>
       {% endfor %}
