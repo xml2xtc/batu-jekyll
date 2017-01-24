@@ -26,7 +26,7 @@ defaults:
   values:
     title: ''
     categories:
-    - editorial
+    - ''
     credit_text: ''
     layout: project
     thumbnail_image: ''
@@ -38,13 +38,13 @@ defaults:
     - ''
 - scope:
     path: ''
-    type: home_sections
+    type: home-sections
   values:
     title: ''
     has_title: true
     layout: default
     link: ''
-    background_image: "/images/home3.jpg"
+    background_image: ''
     is_video: false
     video_url: ''
 name: Batu

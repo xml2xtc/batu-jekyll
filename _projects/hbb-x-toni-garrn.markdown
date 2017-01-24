@@ -14,10 +14,11 @@ thumbnail_image: "/uploads/TONIHBB.gif"
 has_video: true
 video_embeds:
 - <iframe src="https://player.vimeo.com/video/198916048?title=0&byline=0&portrait=0"
-  width="1280" height="720" frameborder="0 webkitallowfullscreen mozallowfullscreen
-  allowfullscreen></iframe>
-- <iframe src="https://player.vimeo.com/video/198492900?title=0&byline=0&portrait=0"
   width="1500" height="844" frameborder="0" webkitallowfullscreen mozallowfullscreen
   allowfullscreen></iframe>
+- <iframe src="https://player.vimeo.com/video/198916048?title=0&byline=0&portrait=0"
+  width="1500" height="844" frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe>
+layout: project
 ---
 
