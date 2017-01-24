@@ -38,7 +38,7 @@ defaults:
     - ''
 - scope:
     path: ''
-    type: home_sections
+    type: home-sections
   values:
     title: ''
     has_title: true
