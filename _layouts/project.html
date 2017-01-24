@@ -13,13 +13,15 @@ layout: default
   <div class="project__wrapper">
 
     {% if page.has_video %}
-      {% for video in page.video_embeds %}
-      <div class="project_block project_block">
-        <div class="embed-container">
-          {{ video }}
+
+        <div class="project_block project_block">
+          {% for video in page.video_embeds %}
+          <div class="embed-container">
+            {{ video }}
+          </div>
+          {% endfor %}
         </div>
-      </div>
-      {% endfor %}
+
     {% endif %}
 
     {% for image in page.images %}
