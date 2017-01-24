@@ -12,8 +12,6 @@ credit_text: |-
   Model: Toni Garrn
 thumbnail_image: "/uploads/TONIHBB.gif"
 has_video: true
-video_embed: <iframe src="https://player.vimeo.com/video/198916048?title=0&byline=0&portrait=0"
-  width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen
-  allowfullscreen></iframe>
+video_embeds:
+  - <iframe src="https://player.vimeo.com/video/198916048?title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0 webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
-
