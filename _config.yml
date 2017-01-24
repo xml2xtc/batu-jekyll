@@ -44,7 +44,7 @@ defaults:
     has_title: true
     layout: default
     link: ''
-    background_image: ""
+    background_image: ''
     is_video: false
     video_url: ''
 name: Batu
