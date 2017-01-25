@@ -1,7 +1,7 @@
 ---
 title: NEW BALANCE LIFESTYLE 2016 - JERMAIN TODD
 date: 2017-01-25 19:36:00 Z
-position: 62
+position: 52
 thumbnail_image: "/uploads/JERMAIN_NB15.gif"
 has_video: true
 video_embeds:
