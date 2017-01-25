@@ -6,7 +6,10 @@ categories:
 position: 37
 credit_text: |-
   Photographer: Miles Aldridge
+
   Styling: Nicola Formichetti
+
+  Artist: Kaimin
 thumbnail_image: "/uploads/00Black5-058f0e.jpg"
 images:
 - path: "/uploads/00Black5.jpg"
