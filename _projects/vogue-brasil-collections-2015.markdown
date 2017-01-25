@@ -6,6 +6,7 @@ categories:
 position: 25
 credit_text: |-
   Photographer: Zee Nunes
+
   Styling: Pedro Sales
 thumbnail_image: "/uploads/20150625_ZEE_VG_COLECOES_PASTEL_5455-X2.jpg"
 images:
