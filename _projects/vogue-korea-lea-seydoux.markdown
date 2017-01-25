@@ -4,7 +4,10 @@ date: 2017-01-07 03:34:00 Z
 categories:
 - editorial
 position: 15
-credit_text: 'Styling: Nicola Formichetti'
+credit_text: |-
+  Styling: Nicola Formichetti
+
+  Model: Lea Seydoux
 thumbnail_image: "/uploads/Main-24ab7d.jpg"
 images:
 - path: "/uploads/Main-d6e0cc.jpg"
