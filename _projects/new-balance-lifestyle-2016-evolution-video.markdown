@@ -3,6 +3,7 @@ title: NEW BALANCE LIFESTYLE 2016 - EVOLUTION VIDEO
 date: 2017-01-25 19:39:00 Z
 categories:
 - video
+- advertising
 position: 65
 has_video: true
 video_embeds:
