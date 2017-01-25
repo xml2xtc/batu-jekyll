@@ -3,6 +3,7 @@ title: Harper's Bazaar Brasil - Lily Donaldson
 date: 2017-01-25 19:25:00 Z
 categories:
 - editoria
+position: 63
 credit_text: 'Photographer: Terry Richardson'
 thumbnail_image: "/uploads/Main-e05b08.jpg"
 images:
