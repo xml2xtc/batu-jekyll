@@ -5,8 +5,9 @@ categories:
 - editorial
 position: 40
 credit_text: |-
-  • Photographer: David Roemer
-  • Stylist: Katie Burnette
+  Photographer: David Roemer
+
+  Stylist: Katie Burnette
 thumbnail_image: "/uploads/CAPA_BAZAAR42.jpg"
 images:
 - path: "/uploads/CAPA_BAZAAR42-47a77c.jpg"
