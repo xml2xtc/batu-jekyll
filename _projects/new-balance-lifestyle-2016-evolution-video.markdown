@@ -5,6 +5,7 @@ categories:
 - video
 - advertising
 position: 65
+thumbnail_image: "/uploads/EVOLUTION_NEWBALANCE-2cc8b0.gif"
 has_video: true
 video_embeds:
 - <iframe src="https://player.vimeo.com/video/189803687?title=0&byline=0&portrait=0"
