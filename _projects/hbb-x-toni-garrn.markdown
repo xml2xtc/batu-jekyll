@@ -8,7 +8,9 @@ categories:
 position: 5
 credit_text: |-
   Video: Fernando Freire
+
   Art Direction: Marcus Chang
+
   Model: Toni Garrn
 thumbnail_image: "/uploads/TONIHBB.gif"
 has_video: true
