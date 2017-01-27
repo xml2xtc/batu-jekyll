@@ -3,8 +3,10 @@ title: AWAVEAWAKE - Spring 2014
 date: 2017-01-27 21:16:00 Z
 categories:
 - advertising
+position: 16
 credit_text: |-
   Photographer: Annabelle Mehran
+
   Model: Kirsty Humes
 thumbnail_image: "/uploads/19_final3045-03.jpg"
 images:
