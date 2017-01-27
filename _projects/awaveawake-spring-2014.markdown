@@ -6,6 +6,7 @@ categories:
 position: 16
 credit_text: |-
   Photographer: Annabelle Mehran
+
   Model: Kirsty Humes
 thumbnail_image: "/uploads/19_final3045-03.jpg"
 images:
