@@ -20,5 +20,9 @@ images:
   class: half
 - path: "/uploads/00390big_592x888.jpg"
   class: half
+- path: "/uploads/Preen_lights.jpg"
+  class: full
+- path: "/uploads/20110912-0004.jpg"
+  class: full
 ---
 
