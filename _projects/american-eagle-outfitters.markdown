@@ -1,9 +1,10 @@
 ---
 title: American Eagle Outfitters
 date: 2017-01-07 18:44:00 Z
+published: false
 categories:
 - advertising
-position: 56
+position: 57
 thumbnail_image: "/uploads/AE_FW10_01.jpg"
 images:
 - path: "/uploads/AE_FW10_01-94ace8.jpg"
