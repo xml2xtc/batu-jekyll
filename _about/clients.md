@@ -1,5 +1,5 @@
 ---
-title: Clients
+title: CLIENTS
 position: 2
 layout: default
 ---
