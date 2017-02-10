@@ -23,7 +23,7 @@
     &__divider:first-child {
       border-top: 1px solid $dark-gray;
     }
-    .Clients ul {
+    .info__divider ul {
       column-count: 3;
       @include breakpoint(small) {
           column-count: 1;
