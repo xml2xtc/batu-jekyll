@@ -10,7 +10,7 @@ thumbnail_image: "/uploads/NB_LACEUP.gif"
 has_video: true
 video_embeds:
 - <iframe src="https://player.vimeo.com/video/198600811?title=0&byline=0&portrait=0"
-  width="1280" height="720" frameborder="0 webkitallowfullscreen mozallowfullscreen
+  width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen
   allowfullscreen></iframe>
 ---
 
