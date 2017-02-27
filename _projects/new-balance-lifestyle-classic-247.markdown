@@ -8,6 +8,8 @@ position: 9
 thumbnail_image: "/uploads/ezgif.com-video-to-gif-18c1da.gif"
 has_video: true
 video_embeds:
-- https://player.vimeo.com/external/205913598.hd.mp4?s=838d418510388a4cd47cc96e88db6d81093af9fc&profile_id=174
+- <iframe src="https://player.vimeo.com/video/205913598?title=0&byline=0&portrait=0"
+  width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe>
 ---
 
