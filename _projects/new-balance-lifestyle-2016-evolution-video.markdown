@@ -4,7 +4,7 @@ date: 2017-01-25 19:39:00 Z
 categories:
 - video
 - advertising
-position: 69
+position: 70
 thumbnail_image: "/uploads/EVOLUTION_NEWBALANCE-2cc8b0.gif"
 has_video: true
 video_embeds:

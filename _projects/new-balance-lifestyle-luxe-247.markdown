@@ -1,7 +1,7 @@
 ---
 title: NEW BALANCE LIFESTYLE - LUXE 247
 date: 2017-01-20 18:32:00 Z
-position: 10
+position: 11
 thumbnail_image: "/uploads/NB_LUXE247.gif"
 has_video: true
 video_embeds:
