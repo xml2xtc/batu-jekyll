@@ -5,7 +5,7 @@ categories:
 - advertising
 position: 14
 credit_text: 'Photographer: Heji Shin'
-thumbnail_image: "/uploads/Screen%20Shot%202017-03-01%20at%2012.52.14%20PM.png"
+thumbnail_image: "/uploads/01290012-7a4c85.jpg"
 images:
 - path: "/uploads/01290012.jpg"
   class: full
