@@ -1,6 +1,5 @@
 ---
 title: Vogue Brasil
-published: false
 categories:
 - editorial
 position: 19
