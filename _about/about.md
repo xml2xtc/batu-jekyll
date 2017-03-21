@@ -6,8 +6,6 @@ layout: default
 
 ## About
 
-BATU is a multidisciplinary agency based in NYC that develops and produces content for brands, agencies and media companies.
+**BATU is a multidisciplinary agency based in NYC that develops and produces content for brands, agencies and media companies. Created in 2013 by Marcus Chang, who brought together his years of experience as a Writer/Editor, Producer, and Art Director for companies like The New York Times and Condé Nast, where he worked with some of the most established professionals in their field, and today’s up-and-coming creatives.**
 
-Founded in 2013 by Marcus Chang, the agency brings together some of the most established professionals in their field, as well as today's up-and-coming creatives who are revolutionizing the industry.
-
-Every project is unique to us, and our team of writers, artists, directors, and creatives are able to  scale for a project of any scope with the special attention that each client deserves.
+**OUR INFRASTRUCTURE AND CONNECTIONS ALLOW US TO EXECUTE ANY PROJECT IN THE MOST ROUNDED AND EFFICIENT WAY.   WHETHER THAT BE ON A LOCAL OR A GLOBAL SCALE, A MILLION-DOLLAR BUDGET OR A SMALL INDEPENDENT JOB, ALL PROJECTS ARE TREATED WITH THE SAME LEVEL OF DEDICATION AND ATTENTIVENESS FROM A creative team offering a complete approach to event conception and production, photographic production, fashion film, video, and creative consulting.**
