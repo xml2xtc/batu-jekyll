@@ -7,7 +7,7 @@ position: 4
 credit_text: |-
   Photographer: Max Vadukul
 
-  A second line
+  Model: Jessica Chastain
 thumbnail_image: "/uploads/Screen%20shot%202013-02-08%20at%201.23.18%20PM.png"
 images:
 - path: "/uploads/Screen%20shot%202013-02-08%20at%201.23.18%20PM-6b0a73.png"
