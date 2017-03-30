@@ -4,7 +4,7 @@ date: 2017-01-30 17:52:00 Z
 categories:
 - editorial
 - special
-position: 24
+position: 25
 credit_text: 'Photographer: Bijoux Altamirano\
 
 '

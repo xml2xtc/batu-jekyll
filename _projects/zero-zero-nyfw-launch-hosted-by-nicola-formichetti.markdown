@@ -3,7 +3,7 @@ title: ZERO ZERO NYFW LAUNCH HOSTED BY NICOLA FORMICHETTI
 date: 2017-01-20 19:49:00 Z
 categories:
 - events
-position: 22
+position: 23
 thumbnail_image: "/uploads/PAU_6297.JPG"
 images:
 - path: "/uploads/PAU_6297-afda82.JPG"
