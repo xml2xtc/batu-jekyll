@@ -3,7 +3,7 @@ title: Preen by Thornton Bregazzi- London Fashion Week SS 13
 date: 2017-01-07 03:19:00 Z
 categories:
 - events
-position: 7
+position: 11
 credit_text: 'Producer: Marcus Chang'
 thumbnail_image: "/uploads/MAIN-b48d3a.jpg"
 images:
