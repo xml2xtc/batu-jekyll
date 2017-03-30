@@ -2,7 +2,7 @@
 title: Vogue Brasil
 categories:
 - editorial
-position: 20
+position: 19
 credit_text: |-
   Photographer: Giampaolo Sgurra
 
