@@ -9,6 +9,7 @@ credit_text: |-
   Stylist: Daniel Ueda
 
   Model: Joan Smalls
+thumbnail_image: "/uploads/VG466_CAPA_BCA_A-8e3395.jpg"
 images:
 - path: "/uploads/VG466_CAPA_BCA_A.jpg"
   class: half
