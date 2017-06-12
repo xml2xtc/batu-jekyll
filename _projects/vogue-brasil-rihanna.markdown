@@ -1,6 +1,7 @@
 ---
 title: Vogue Brasil - Rihanna
 date: 2017-01-07 03:30:00 Z
+published: false
 categories:
 - editorial
 position: 9
