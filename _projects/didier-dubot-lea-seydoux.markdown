@@ -3,7 +3,7 @@ title: Didier Dubot - Lea Seydoux
 date: 2017-01-07 05:24:00 Z
 categories:
 - advertising
-position: 27
+position: 28
 credit_text: |-
   Photographer: Victor Demarchelier
 
