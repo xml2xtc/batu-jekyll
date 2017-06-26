@@ -1,6 +1,6 @@
 ---
 title: NEW BALANCE LIFESTYLE 2017
-position: 3
+position: 4
 has_title: false
 link: "/projects/demo1/"
 is_video: true
