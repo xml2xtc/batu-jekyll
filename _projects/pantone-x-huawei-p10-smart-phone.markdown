@@ -3,6 +3,7 @@ title: PANTONE x HUAWEI p10 SMART PHONE
 date: 2017-06-26 19:43:00 Z
 categories:
 - advertising
+- video
 thumbnail_image: "/uploads/200w_d.gif"
 has_video: true
 video_embeds:
