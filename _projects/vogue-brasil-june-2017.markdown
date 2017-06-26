@@ -3,7 +3,7 @@ title: VOGUE BRASIL - JUNE 2017
 date: 2017-06-06 16:41:00 Z
 categories:
 - editorial
-position: 0
+position: 14
 credit_text: |-
   Photographer: Zee Nunes
 
