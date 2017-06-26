@@ -8,6 +8,6 @@ position: 0
 thumbnail_image: "/uploads/giphy-4be66b.gif"
 has_video: true
 video_embeds:
-- https://player.vimeo.com/external/223150505.hd.mp4?s=342a889a6283c54a9512f9c7790e64191ebb18f8&profile_id=119
+- https://player.vimeo.com/external/223150505.hd.mp4?s=342a889a6283c54a9512f9c7790e64191ebb18f8&profile_id=174
 ---
 
