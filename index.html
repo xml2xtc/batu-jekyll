@@ -12,7 +12,7 @@ layout: default
         <h3 class="aligned-text"><a href="{{ section.link }}">{{ section.title }}</a></h3>
         {% endif %}
         <div class="fluid-width-video-wrapper">
-          <video autoplay src="{{ section.video_url }}" muted loop preload="metadata" poster="#" class="js-resizebleVideo"></video>
+          <video autoplay src="{{ section.video_url }}" muted loop preload="metadata" poster="{{ section.background_image}}" class="js-resizebleVideo"></video>
           <i class="video-gif video-gif-sheyk"></i>
         </div>
       </section>
