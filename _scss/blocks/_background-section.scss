@@ -1,7 +1,9 @@
 .background-section {
     background-position: 50% 50%;
     background-size: cover;
-    background-attachment: fixed;
+    @include breakpoint(large) {
+        background-attachment: fixed;
+    }
 
     img {
         display: none;
