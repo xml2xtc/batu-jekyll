@@ -3,7 +3,7 @@ title: Harper's Bazaar Brasil - Alessandra Ambrosio
 date: 2017-06-13 17:59:00 Z
 categories:
 - editorial
-position: 76
+position: 77
 credit_text: 'Photographer: Terry Richardson'
 thumbnail_image: "/uploads/MAIN-17fe33.jpg"
 images:
