@@ -7,7 +7,8 @@ categories:
 position: 8
 credit_text: |-
   Photographer: Cameron McCool
-  Stylist: Yasmine Steream
+
+  Stylist: Yasmine Sterea
 thumbnail_image: "/uploads/CM_VOGUE%20BRAZIL%20(8).jpeg"
 images:
 - path: "/uploads/CM_VOGUE%20BRAZIL%20(8).tif"
