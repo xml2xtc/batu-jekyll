@@ -1,5 +1,5 @@
 ---
-title: SAINT LAURENT FEATURE - CAMERON MC COOL
+title: SAINT LAURENT FEATURE
 date: 2017-09-01 00:42:00 Z
 categories:
 - editorial
