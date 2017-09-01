@@ -2,8 +2,8 @@
 title: SAINT LAURENT FEATURE
 date: 2017-09-01 00:42:00 Z
 categories:
-- editorial
 - special projects
+- editorial
 position: 8
 credit_text: |-
   Photographer: Cameron McCool
