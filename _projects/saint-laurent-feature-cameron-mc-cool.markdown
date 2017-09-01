@@ -4,6 +4,7 @@ date: 2017-09-01 00:42:00 Z
 categories:
 - editorial
 - special projects
+position: 7
 credit_text: |-
   Photographer: Cameron McCool
   Stylist: Yasmine Steream
