@@ -4,7 +4,7 @@ date: 2017-01-20 21:27:00 Z
 categories:
 - event
 - events
-position: 39
+position: 38
 thumbnail_image: "/uploads/007_IMG_9650_007.jpg"
 images:
 - path: "/uploads/MAIN-8f37d7.jpg"
