@@ -5,7 +5,7 @@ published: false
 categories:
 - special projects
 - editorial
-position: 9
+position: 8
 credit_text: |-
   Photographer: Cameron McCool
 
