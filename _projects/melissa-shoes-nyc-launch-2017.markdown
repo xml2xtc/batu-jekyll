@@ -4,6 +4,7 @@ date: 2017-12-16 18:02:00 Z
 categories:
 - events
 - advertising
+- video
 credit_text: |-
   MC CAROL
   DJ VENUS X, ASMARA, DESE ESCOBAR
