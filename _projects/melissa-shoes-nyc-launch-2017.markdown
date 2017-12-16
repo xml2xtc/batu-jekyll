@@ -22,5 +22,7 @@ images:
 - path: "/uploads/unnamed-1.jpg"
   class: full
 has_video: true
+video_embeds:
+- https://player.vimeo.com/external/247626155.hd.mp4?s=95e3f57e8696a0fe3c5afb2f58f2854b613931ef&profile_id=174
 ---
 
