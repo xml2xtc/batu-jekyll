@@ -8,6 +8,7 @@ categories:
 position: 0
 credit_text: |-
   MC CAROL
+
   DJ VENUS X, ASMARA, DESE ESCOBAR
 thumbnail_image: "/uploads/IMG_8381.jpg"
 images:
