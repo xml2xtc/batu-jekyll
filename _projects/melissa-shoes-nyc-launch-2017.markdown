@@ -5,6 +5,7 @@ categories:
 - events
 - advertising
 - video
+position: 8
 credit_text: |-
   MC CAROL
   DJ VENUS X, ASMARA, DESE ESCOBAR
