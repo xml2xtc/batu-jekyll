@@ -26,7 +26,8 @@ images:
   class: full
 has_video: true
 video_embeds:
-- <iframe src="https://player.vimeo.com/video/247626155" width="640" height="360"
-  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+- |-
+  <iframe src="https://player.vimeo.com/video/247626155?byline=0&portrait=0" width="1230" height="692" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <p><a href="https://vimeo.com/247626155">MELISSA NYC LAUNCH 2017 - 88 PALACE</a> from <a href="https://vimeo.com/user30551234">Batu Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 ---
 
