@@ -3,7 +3,7 @@ title: YSL FEATURE - CAMERON MC COOL
 date: 2017-09-25 18:33:00 Z
 categories:
 - editorial
-position: 14
+position: 16
 credit_text: 'photographer: Cameron McCool'
 thumbnail_image: "/uploads/CM_VOGUE%20BRAZIL%20(7)%20copy.jpg"
 images:
