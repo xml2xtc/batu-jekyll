@@ -24,6 +24,20 @@ images:
   class: full
 - path: "/uploads/unnamed-1.jpg"
   class: full
+- path: "/uploads/php7ZIlb4-site-venus.jpg"
+  class: half
+- path: "/uploads/81718-50146-phpmVF8AO-01.jpg"
+  class: half
+- path: "/uploads/81727-50155-php1txQK1-10.jpg"
+  class: half
+- path: "/uploads/81734-50162-phpwgF6B5-18.jpg"
+  class: half
+- path: 
+  class: half
+- path: "/uploads/81725-50153-phpl3u9ar-08.jpg"
+  class: half
+- path: 
+  class: 
 has_video: true
 video_embeds:
 - |-
