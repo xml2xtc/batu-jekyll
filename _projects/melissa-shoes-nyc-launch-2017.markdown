@@ -32,7 +32,7 @@ images:
   class: half
 - path: "/uploads/81734-50162-phpwgF6B5-18.jpg"
   class: half
-- path: 
+- path: "/uploads/IMG_8446.jpg"
   class: half
 - path: "/uploads/81725-50153-phpl3u9ar-08.jpg"
   class: half
