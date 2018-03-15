@@ -14,7 +14,7 @@ thumbnail_image: "/uploads/CM_VOGUE%20BRAZIL%20(7)%20copy-97dbf1.jpg"
 images:
 - path: "/uploads/CM_VOGUE%20BRAZIL%20(8)%20copy-25dcbf.jpg"
   class: full
-- path: "/uploads/CM_VOGUE%20BRAZIL%20(8)%20copy-2e7c65.jpg"
+- path: 
   class: full
 - path: "/uploads/CM_VOGUE%20BRAZIL%20(9)-b30952.jpg"
   class: full
