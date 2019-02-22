@@ -3,7 +3,7 @@ title: T MAGAZINE - MALUCA MALA
 date: 2017-01-30 17:45:00 Z
 categories:
 - editorial
-position: 41
+position: 42
 credit_text: 'Photographer: Bijoux Altamirano'
 thumbnail_image: "/uploads/25maluca-chang-tmagArticle.jpg"
 images:
