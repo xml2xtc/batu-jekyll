@@ -3,7 +3,7 @@ title: Another Magazine - Liu Wen
 date: 2017-01-07 04:01:00 Z
 categories:
 - editorial
-position: 31
+position: 32
 credit_text: 'Photographer: Sharif Hamza'
 thumbnail_image: "/uploads/Main-c319fe.jpg"
 images:

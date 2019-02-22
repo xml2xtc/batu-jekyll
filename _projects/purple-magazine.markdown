@@ -3,7 +3,7 @@ title: Purple Magazine
 date: 2017-01-07 03:50:00 Z
 categories:
 - editorial
-position: 48
+position: 49
 credit_text: |-
   Photographer: Heji Shin
 
