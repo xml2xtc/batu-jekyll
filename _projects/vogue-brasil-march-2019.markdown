@@ -5,7 +5,9 @@ categories:
 - editorial
 credit_text: |-
   Photographer: Zee Nunes
+
   Fashion Director: Pedro Sales
+
   Model: Mica
 thumbnail_image: "/uploads/VG487_CAPA_BCA_V22.jpg"
 images:
