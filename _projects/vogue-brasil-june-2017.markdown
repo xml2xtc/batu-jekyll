@@ -3,7 +3,7 @@ title: VOGUE BRASIL - JOAN SMALLS
 date: 2017-06-06 16:41:00 Z
 categories:
 - editorial
-position: 34
+position: 36
 credit_text: |-
   Photographer: Zee Nunes
 
