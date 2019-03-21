@@ -5,7 +5,9 @@ categories:
 - editorial
 credit_text: |-
   Photographer: Zee Nunes
+
   Fashion Director: Pedro Sales
+
   Model: Karen Elson
 thumbnail_image: "/uploads/VG486_CAPA%20copy.jpg"
 images:
