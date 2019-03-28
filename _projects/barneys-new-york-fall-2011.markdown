@@ -3,7 +3,7 @@ title: BARNEYS NEW YORK FALL 2011
 date: 2017-01-07 18:15:00 Z
 categories:
 - advertising
-position: 75
+position: 76
 thumbnail_image: "/uploads/Main-6b9f8a.jpg"
 images:
 - path: "/uploads/Main-1d30b3.jpg"

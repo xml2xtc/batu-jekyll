@@ -3,7 +3,7 @@ title: Curieux London FW 16
 date: 2017-01-07 04:21:00 Z
 categories:
 - advertising
-position: 3
+position: 5
 credit_text: 'Photographer: Heji Shin'
 thumbnail_image: "/uploads/MAIN-54e160.jpg"
 images:
