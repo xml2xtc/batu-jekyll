@@ -1,6 +1,8 @@
 ---
 title: PORTER EDIT - JULIA LOUIS DREYFUS
 date: 2019-04-22 22:34:00 Z
+categories:
+- editorial
 thumbnail_image: "/uploads/JLD%20cover1_DESKTOPnew.jpg"
 images:
 - path: "/uploads/JLD%20cover1_DESKTOPnew-7b1d43.jpg"
