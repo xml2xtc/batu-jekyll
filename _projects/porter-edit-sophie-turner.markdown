@@ -30,6 +30,5 @@ images:
   class: full
 ---
 
-Talent - Sophie Turner
 Photo: Yelena Yemchuck
 Styling: Natasha Royt
