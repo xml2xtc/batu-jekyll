@@ -6,6 +6,7 @@ categories:
 position: 0
 credit_text: |-
   Photo: Yelena Yemchuck
+
   Styling: Natasha Royt
 thumbnail_image: "/uploads/Sophie%20Turner%20cover_desktop.jpg"
 images:
@@ -34,4 +35,5 @@ images:
 ---
 
 Photo: Yelena Yemchuck
+
 Styling: Natasha Royt
