@@ -4,6 +4,9 @@ date: 2019-05-31 20:36:00 Z
 categories:
 - editorial
 position: 0
+credit_text: |-
+  Photo: Yelena Yemchuck
+  Styling: Natasha Royt
 thumbnail_image: "/uploads/Sophie%20Turner%20cover_desktop.jpg"
 images:
 - path: "/uploads/004.jpg"
