@@ -6,6 +6,7 @@ categories:
 position: 7
 credit_text: |-
   Photographer: Yelena Yemchuck
+
   Stylist: Tracy Taylor
 thumbnail_image: "/uploads/Sienna%20Cover_Desktop.jpg"
 images:
