@@ -1,6 +1,8 @@
 ---
 title: 'THE COUNSELOR: SOPHIE TURNER - PORTER MAGAZINE'
 date: 2019-07-23 18:34:00 Z
+categories:
+- video
 position: 25
 thumbnail_image: "/uploads/ezgif.com-video-to-gif-bcec6a.gif"
 has_video: true
