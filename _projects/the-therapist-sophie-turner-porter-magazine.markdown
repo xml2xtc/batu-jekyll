@@ -1,5 +1,5 @@
 ---
-title: 'THE THERAPIST: SOPHIE TURNER - PORTER MAGAZINE'
+title: 'THE COUNSELOR: SOPHIE TURNER - PORTER MAGAZINE'
 date: 2019-07-23 18:34:00 Z
 thumbnail_image: "/uploads/ezgif.com-video-to-gif-bcec6a.gif"
 has_video: true
