@@ -3,7 +3,7 @@ title: VOGUE BRASIL - COLLECTIONS 2015
 date: 2017-01-20 21:50:00 Z
 categories:
 - editorial
-position: 44
+position: 45
 credit_text: |-
   Photographer: Zee Nunes
 
