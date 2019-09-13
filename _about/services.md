@@ -4,23 +4,4 @@ position: 1
 layout: default
 ---
 
-## Services
-
-### Production
-
-Photography, Video, Events, Estimating \+ Budget Management, Scheduling, Post Production, Art Buying
-
-### Casting
-
-Street casting, Professional models
-
-### Locations
-Scouting (US \+ Abroad), Permitting, Travel
-
-### PR/ Media Strategy
-
-Sponsorship, Media Strategy \+ Implementation
-
-### Art Direction
-
-Content Creation, Brand Strategy + Identity, Image Consulting, Design
+![Screen Shot 2019-09-13 at 4.50.01 PM.png](/uploads/Screen%20Shot%202019-09-13%20at%204.50.01%20PM.png)
