@@ -4,7 +4,7 @@ position: 0
 layout: default
 ---
 
-**## ## ABOUT
+ABOUT****
 
 ### We are a multidisciplinary Production agency based in NYC that develops and produces content for brands, agencies and media companies. We specialize in all aspects of production ranging from Locations, Casting, Budgeting, Art Buying, and Content Creation. 
 
