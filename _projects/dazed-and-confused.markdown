@@ -3,6 +3,7 @@ title: DAZED & CONFUSED
 date: 2020-02-14 19:52:00 Z
 categories:
 - editorial
+position: 0
 thumbnail_image: "/uploads/becky%20colorN.jpg"
 images:
 - path: "/uploads/becky%20colorN-d9e38c.jpg"

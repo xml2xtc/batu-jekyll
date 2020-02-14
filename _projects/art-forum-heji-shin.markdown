@@ -4,7 +4,7 @@ date: 2017-02-03 18:39:00 Z
 categories:
 - editorial
 - special
-position: 24
+position: 25
 credit_text: 'Photographer: Heji Shin'
 thumbnail_image: "/uploads/Cg52ZxJWwAELV9_.jpg"
 images:

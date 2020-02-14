@@ -5,7 +5,7 @@ categories:
 - events
 - advertising
 - video
-position: 6
+position: 7
 credit_text: |-
   MC CAROL
 
