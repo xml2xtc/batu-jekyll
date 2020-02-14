@@ -6,6 +6,7 @@ categories:
 position: 0
 credit_text: |-
   Photographer: Thistle Brown
+
   Styling: Andrew Sauceda
 thumbnail_image: "/uploads/becky%20colorN.jpg"
 images:
