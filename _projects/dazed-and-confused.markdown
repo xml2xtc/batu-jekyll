@@ -38,3 +38,6 @@ images:
   class: half
 ---
 
+Photographer: Thistle Brown
+
+Styling: Andrew Sauceda
