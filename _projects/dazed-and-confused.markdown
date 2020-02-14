@@ -4,6 +4,9 @@ date: 2020-02-14 19:52:00 Z
 categories:
 - editorial
 position: 0
+credit_text: |-
+  Photographer: Thistle Brown
+  Styling: Andrew Sauceda
 thumbnail_image: "/uploads/becky%20colorN.jpg"
 images:
 - path: "/uploads/becky%20colorN-d9e38c.jpg"
@@ -34,5 +37,3 @@ images:
   class: half
 ---
 
-Photographer: Thistle Brown
-Styling: Andrew Sauceda
