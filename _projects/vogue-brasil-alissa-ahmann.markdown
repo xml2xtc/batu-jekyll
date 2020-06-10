@@ -3,7 +3,7 @@ title: Vogue Brasil - ALISSA AHMANN
 date: 2017-01-20 19:16:00 Z
 categories:
 - editorial
-position: 86
+position: 87
 credit_text: |-
   Photographer: Zee Nunes
 

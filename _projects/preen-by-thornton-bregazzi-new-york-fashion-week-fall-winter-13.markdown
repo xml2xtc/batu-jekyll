@@ -3,7 +3,7 @@ title: Preen by Thornton Bregazzi - New York Fashion Week Fall Winter 13
 date: 2017-01-10 22:33:00 Z
 categories:
 - events
-position: 77
+position: 78
 thumbnail_image: "/uploads/MAIN-1e5847.jpg"
 images:
 - path: "/uploads/MAIN-391a0a.jpg"
