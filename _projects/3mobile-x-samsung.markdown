@@ -12,7 +12,7 @@ position: 9
 thumbnail_image: "/uploads/ezgif.com-video-to-gif-700b0c.gif"
 has_video: true
 video_embeds:
-- <iframe src="https://player.vimeo.com/video/427800876" width="640" height="360"
+- <iframe src="https://player.vimeo.com/video/427800876" width="1500" height="844"
   frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ---
 
