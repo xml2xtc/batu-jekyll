@@ -3,4 +3,4 @@ title: Contact
 layout: central-box
 ---
 
-![COntact.jpg](/uploads/COntact.jpg)![contact.batu.jpg](/uploads/contact.batu.jpg)
+![contact.batu-e808b5.jpg](/uploads/contact.batu-e808b5.jpg)
