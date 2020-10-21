@@ -1,5 +1,6 @@
 ---
 title: CONTACT
+position: 0
 layout: central-box
 ---
 
