@@ -3,10 +3,12 @@ title: Contact
 layout: central-box
 ---
 
+**NEW YORK**
 2 East Broadway suite 1006
 New York, NY 10038
 Tel: 212.951.0359
 
+**LOS ANGELES**
 1627 N Normandie Ave ste 23
 Los Angeles, CA 90027
 
