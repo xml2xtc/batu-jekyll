@@ -10,17 +10,4 @@ Tel: 212.951.0359
 
 **LOS ANGELES**
 1627 N Normandie Ave ste 23
-Los Angeles, CA 90027
-
-[INFO@BATUPROJECTS.COM](mailto:info@batuprojects.com)
-
-
-New Business Inquiries:
-
-[MARCUS@BATUPROJECTS.COM](mailto:marcus@batuprojects.com)
-
-
-Location Inquiries:
-
-[info@location-library.com]
-(mailto:info@location-library.com)
+Los Angeles, CA 90027![Screen Shot 2020-10-21 at 11.31.45 AM.png](/uploads/Screen%20Shot%202020-10-21%20at%2011.31.45%20AM.png)
