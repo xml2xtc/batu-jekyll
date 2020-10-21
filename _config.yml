@@ -8,6 +8,9 @@ collections:
   home-sections:
     title: Home Sections
     output: false
+  locations:
+    title: LOCATIONS
+    output: true
   posts:
     title: Posts
     output: true
