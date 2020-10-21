@@ -20,5 +20,5 @@ New Business Inquiries:
 
 Location Inquiries:
 
-[info@location-library.COM]
+[info@location-library.com]
 (mailto:info@location-library.com)
