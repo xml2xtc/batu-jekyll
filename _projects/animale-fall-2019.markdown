@@ -3,7 +3,7 @@ title: ANIMALE - Fall 2019
 date: 2019-03-28 13:35:00 Z
 categories:
 - advertising
-position: 6
+position: 7
 credit_text: 'MODEL: GRACE ELIZABETH'
 thumbnail_image: "/uploads/C_animale19_galeria_03.jpg"
 images:
