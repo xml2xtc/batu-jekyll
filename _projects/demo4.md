@@ -2,7 +2,7 @@
 title: ELLE Brasil - Stella Maxwell
 categories:
 - editorial
-position: 37
+position: 38
 credit_text: 'Photographer: Max Abadian'
 thumbnail_image: "/uploads/MAIN-4fc945.jpg"
 images:
