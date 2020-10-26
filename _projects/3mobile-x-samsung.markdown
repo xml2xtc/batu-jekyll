@@ -8,7 +8,7 @@ tags:
 - samsung
 - 3mobile
 - theconnectedrestaurant
-position: 6
+position: 7
 thumbnail_image: "/uploads/ezgif.com-video-to-gif-700b0c.gif"
 has_video: true
 video_embeds:
