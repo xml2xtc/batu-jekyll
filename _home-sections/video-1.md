@@ -1,5 +1,6 @@
 ---
 title: PUMA x ARSENAL FOOTBALL CLUB 2016
+published: false
 position: 1
 has_title: false
 background_image: "/uploads/PUMAxARSENAL.gif"
