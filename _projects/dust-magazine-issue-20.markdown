@@ -3,7 +3,7 @@ title: DUST MAGAZINE ISSUE 20
 date: 2022-07-07 22:44:00 Z
 tags:
 - editorial
-position: 4
+position: 5
 credit_text: |-
   PHOTOGRAPHERS: LUIGI & IANGO
 
