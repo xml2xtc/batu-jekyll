@@ -3,7 +3,7 @@ title: VOGUE BRASIL - FEBRUARY 2019
 date: 2019-03-21 19:33:00 Z
 categories:
 - editorial
-position: 23
+position: 24
 credit_text: |-
   Photographer: Zee Nunes
 

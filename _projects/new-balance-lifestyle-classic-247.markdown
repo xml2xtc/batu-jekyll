@@ -4,7 +4,7 @@ date: 2017-02-27 19:41:00 Z
 categories:
 - video
 - advertising
-position: 25
+position: 26
 thumbnail_image: "/uploads/ezgif.com-video-to-gif-18c1da.gif"
 has_video: true
 video_embeds:
