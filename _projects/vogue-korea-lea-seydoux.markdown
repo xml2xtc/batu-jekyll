@@ -3,7 +3,7 @@ title: Vogue Korea - Lea Seydoux
 date: 2017-01-07 03:34:00 Z
 categories:
 - editorial
-position: 37
+position: 38
 credit_text: |-
   Styling: Nicola Formichetti
 
