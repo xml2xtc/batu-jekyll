@@ -1,7 +1,7 @@
 ---
 title: PLAYSTATION INTERNATIONAL CODE QUEST NYC
 date: 2022-07-07 23:00:00 Z
-position: 7
+position: 8
 thumbnail_image: "/uploads/MAIN_GIF-5c3ae0.gif"
 has_video: true
 video_embeds:

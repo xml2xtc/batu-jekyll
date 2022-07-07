@@ -1,6 +1,7 @@
 ---
 title: VOGUE BRASIL AUGUST 2021
 date: 2022-07-07 23:22:00 Z
+position: 6
 credit_text: |-
   PHOTOGRAPHER: ZEE NUNES
   FASHION DIRECTOR: PEDRO SALES
