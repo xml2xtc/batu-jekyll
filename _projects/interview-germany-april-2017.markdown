@@ -3,7 +3,7 @@ title: INTERVIEW GERMANY - APRIL 2017
 date: 2017-03-30 18:48:00 Z
 categories:
 - editorial
-position: 23
+position: 24
 credit_text: |-
   Photographer: Heji Shin
 
