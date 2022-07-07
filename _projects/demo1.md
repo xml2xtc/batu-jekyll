@@ -2,7 +2,7 @@
 title: Vogue Brasil - Anna Dello Russo
 categories:
 - editorial
-position: 39
+position: 40
 credit_text: |-
   Photographer: Giampaolo Sgurra
 

@@ -5,7 +5,7 @@ categories:
 - editorial
 - special
 - video
-position: 21
+position: 22
 credit_text: |-
   Video: Fernando Freire
 
