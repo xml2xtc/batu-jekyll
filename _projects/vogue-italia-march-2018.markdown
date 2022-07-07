@@ -1,6 +1,7 @@
 ---
 title: VOGUE ITALIA - MARCH 2018
 date: 2018-03-12 18:31:00 Z
+published: false
 categories:
 - editorial
 position: 45
