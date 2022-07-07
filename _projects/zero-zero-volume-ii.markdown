@@ -3,7 +3,7 @@ title: ZERO ZERO VOLUME II
 date: 2017-01-20 19:37:00 Z
 categories:
 - special
-position: 61
+position: 62
 credit_text: |-
   Photographer: Miles Aldridge
 
