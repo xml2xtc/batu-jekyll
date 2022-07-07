@@ -1,5 +1,5 @@
 ---
-title: Vogue Brasil
+title: Vogue Brasil - Anna Dello Russo
 categories:
 - editorial
 position: 35
