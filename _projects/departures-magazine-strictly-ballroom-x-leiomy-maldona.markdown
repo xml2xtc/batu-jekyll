@@ -1,6 +1,9 @@
 ---
 title: 'DEPARTURES MAGAZINE: STRICTLY BALLROOM x LEIOMY MALDONA'
 date: 2022-07-07 22:51:00 Z
+categories:
+- video
+- editorial
 credit_text: 'MODEL: LEIOMY MALDONA'
 thumbnail_image: "/uploads/MAIN_GIF.gif"
 has_video: true
