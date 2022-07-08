@@ -1,5 +1,5 @@
 ---
-title: Curieux London FW 16
+title: 'HEJI SHIN: Curieux London FW 16'
 date: 2017-01-07 04:21:00 Z
 categories:
 - advertising
