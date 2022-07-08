@@ -28,7 +28,7 @@ images:
   class: full
 - path: "/uploads/5-c939d1.jpg"
   class: half
-- path: 
+- path: "/uploads/3-2d8bb1.jpg"
   class: half
 ---
 
