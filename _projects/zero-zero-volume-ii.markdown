@@ -1,5 +1,5 @@
 ---
-title: ZERO ZERO VOLUME II
+title: MILES ALDRIDGE x ZERO ZERO VOLUME I
 date: 2017-01-20 19:37:00 Z
 categories:
 - special
@@ -10,23 +10,23 @@ credit_text: |-
   Styling: Nicola Formichetti
 
   Artist: Kaimin
-thumbnail_image: "/uploads/00Black5-058f0e.jpg"
+thumbnail_image: "/uploads/00Black5.jpg"
 images:
-- path: "/uploads/00Black5.jpg"
+- path: "/uploads/00Black4(1).jpg"
+  class: full
+- path: "/uploads/00Black5-12e55b.jpg"
+  class: full
+- path: "/uploads/00Black6-78060a.jpg"
   class: full
 - path: "/uploads/00Black2.jpg"
   class: full
-- path: "/uploads/00Black6.jpg"
+- path: "/uploads/00BLACK3-018367.jpg"
   class: full
-- path: "/uploads/00Black7.jpg"
+- path: "/uploads/15.jpeg"
   class: half
-- path: "/uploads/00BLACK1.jpg"
+- path: "/uploads/00Black7-b20caa.jpg"
   class: half
-- path: "/uploads/00BLACK3.jpg"
-  class: full
-- path: "/uploads/00Black4.jpg"
-  class: full
-- path: "/uploads/00black8.jpg"
+- path: 
   class: half
 ---
 
