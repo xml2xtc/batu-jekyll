@@ -1,31 +1,39 @@
 ---
-title: Regime des Fleurs x Chloe Sevigny for launch of Artifacts
+title: Regime des Fleurs x Chloe Sevigny Launch Event
 date: 2017-01-07 21:20:00 Z
 categories:
 - events
 - special
 position: 73
-thumbnail_image: "/uploads/SaintTherese1_4%20(1)-757cb4.jpg"
+thumbnail_image: "/uploads/Regimes%20Des%20Fleurs-1586.jpg"
 images:
-- path: "/uploads/Regimes%20Des%20Fleurs-1608.jpg"
+- path: "/uploads/Regimes%20Des%20Fleurs-2226.jpg"
   class: full
-- path: "/uploads/MAIN-655a8d.jpg"
+- path: "/uploads/MAIN-607d8b.jpg"
   class: half
 - path: "/uploads/Regimes%20Des%20Fleurs-1993.jpg"
   class: half
-- path: "/uploads/Regimes%20Des%20Fleurs-2466.jpg"
-  class: full
-- path: "/uploads/Regimes%20Des%20Fleurs-1571-9352c0.jpg"
-  class: full
-- path: "/uploads/Regimes%20Des%20Fleurs-1798.jpg"
+- path: "/uploads/Regimes%20Des%20Fleurs-1696.jpg"
   class: full
 - path: "/uploads/Regimes%20Des%20Fleurs-1588.jpg"
   class: full
-- path: "/uploads/Regimes%20Des%20Fleurs-2226.jpg"
+- path: "/uploads/Regimes%20Des%20Fleurs-2466.jpg"
   class: full
-- path: "/uploads/Regimes%20Des%20Fleurs-1596.jpg"
+- path: "/uploads/Regimes%20Des%20Fleurs-1606.jpg"
   class: full
-- path: "/uploads/Regimes%20Des%20Fleurs-1528.jpg"
+- path: "/uploads/Regimes%20Des%20Fleurs-1571.jpg"
   class: full
+- path: "/uploads/Regimes%20Des%20Fleurs-2194.jpg"
+  class: full
+- path: "/uploads/Regimes%20Des%20Fleurs-2170.jpg"
+  class: full
+- path: "/uploads/Regimes%20Des%20Fleurs-2216.jpg"
+  class: full
+- path: "/uploads/Regimes%20Des%20Fleurs-2115.jpg"
+  class: full
+- path: "/uploads/Regimes%20Des%20Fleurs-1637.jpg"
+  class: half
+- path: "/uploads/SaintTherese1_4%20(1).jpg"
+  class: hlaf
 ---
 
