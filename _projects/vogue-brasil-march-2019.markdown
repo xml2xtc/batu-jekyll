@@ -12,25 +12,25 @@ credit_text: |-
   Model: Mica
 thumbnail_image: "/uploads/VG487_CAPA_BCA_V22.jpg"
 images:
-- path: "/uploads/VG487_CAPA_BCA_V22-e8db25.jpg"
-  class: half
 - path: "/uploads/VG487_CAPA_BCA_V21.jpg"
   class: half
-- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT8.jpg"
-  class: half
-- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT5.jpg"
-  class: half
-- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT3.jpg"
+- path: "/uploads/VG487_CAPA_BCA_V22-b842f7.jpg"
   class: half
 - path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT1.jpg"
   class: half
-- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT4.jpg"
-  class: half
 - path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT2.jpg"
+  class: half
+- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT5.jpg"
+  class: half
+- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT6.jpg"
   class: half
 - path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT9.jpg"
   class: half
-- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT6.jpg"
+- path: "/uploads/VG487_P146-155_MODA_SAINTLAURENT3.jpg"
+  class: half
+- path: 
+  class: half
+- path: 
   class: half
 ---
 
