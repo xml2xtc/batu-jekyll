@@ -5,7 +5,7 @@ categories:
 - special projects
 - editorial
 - advertising
-position: 27
+position: 28
 credit_text: |-
   Photographer: Cameron McCool
 
