@@ -24,7 +24,7 @@ images:
   class: half
 - path: "/uploads/21_finalH01A2284h.jpg"
   class: full
-- path: "/uploads/17_aaH01A2082h.jpg"
+- path: "/uploads/01_3040-08.jpg"
   class: half
 - path: "/uploads/19_final3045-03-169d49.jpg"
   class: half
