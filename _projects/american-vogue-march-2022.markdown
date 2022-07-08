@@ -21,19 +21,23 @@ images:
   class: half
 - path: "/uploads/11_DE_V2.jpg"
   class: half
-- path: "/uploads/02_DE_V3.jpg"
+- path: "/uploads/08-(2)_main_DE_V2-compressed.jpg"
   class: full
 - path: "/uploads/01_DE_V2.jpg"
   class: half
-- path: "/uploads/03_DE_V2.jpg"
+- path: "/uploads/06-(2)_DE_V2.jpg"
   class: half
-- path: "/uploads/07_DE_V3.jpg"
+- path: "/uploads/02_DE_V3-compressed.jpg"
   class: full
 - path: "/uploads/09_DE_V2.jpg"
   class: half
 - path: "/uploads/05_DE_V3.jpg"
   class: half
-- path: "/uploads/08-(2)_main_DE_V2.jpg"
+- path: "/uploads/07_DE_V3-compressed.jpg"
   class: full
+- path: "/uploads/Kendall-Jenner-by-Larissa-Hofmann-Vogue-US-March-2022%20(1).jpg"
+  class: half
+- path: 
+  class: 
 ---
 
