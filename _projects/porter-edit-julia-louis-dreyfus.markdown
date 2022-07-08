@@ -6,19 +6,19 @@ categories:
 position: 22
 thumbnail_image: "/uploads/JLD%20cover1_DESKTOPnew.jpg"
 images:
-- path: "/uploads/JLD%20cover1_DESKTOPnew-7b1d43.jpg"
+- path: "/uploads/JLD%20cover1_DESKTOPnew-011229.jpg"
   class: half
-- path: "/uploads/3.jpg"
+- path: "/uploads/JLD%20cover2_DESKTOP.jpg"
   class: half
-- path: "/uploads/2.jpg"
+- path: "/uploads/MAGAZINE%20SELECTS_0004.jpg"
   class: half
-- path: "/uploads/5.jpg"
+- path: "/uploads/MAGAZINE%20SELECTS_0007.jpg"
   class: half
-- path: "/uploads/1.jpg"
+- path: "/uploads/MAGAZINE%20SELECTS_0009.jpg"
   class: half
-- path: "/uploads/4.jpg"
+- path: "/uploads/MAGAZINE%20SELECTS_0002.jpg"
   class: half
-- path: "/uploads/6.jpg"
+- path: "/uploads/MAGAZINE%20SELECTS_0003.jpg"
   class: full
 ---
 
