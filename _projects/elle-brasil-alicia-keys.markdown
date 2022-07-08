@@ -5,15 +5,15 @@ categories:
 - editorial
 position: 30
 credit_text: 'Photographer: Zoltan Tombor'
-thumbnail_image: "/uploads/09-2017ELLE%20b%20(1).jpg"
+thumbnail_image: "/uploads/09-2017ELLE%20c-79d6a9.jpg"
 images:
-- path: "/uploads/09-2017ELLE%20b%20(1)-8c21f2.jpg"
-  class: half
-- path: "/uploads/09-2017ELLE%20a%20(1).jpg"
-  class: half
-- path: "/uploads/09-2017ELLE%20d%20(1).jpg"
-  class: half
 - path: "/uploads/09-2017ELLE%20c.jpg"
+  class: half
+- path: "/uploads/09-2017ELLE%20d.jpg"
+  class: half
+- path: "/uploads/09-2017ELLE%20b-e310ae.jpg"
+  class: half
+- path: "/uploads/09-2017ELLE%20a.jpg"
   class: half
 ---
 
