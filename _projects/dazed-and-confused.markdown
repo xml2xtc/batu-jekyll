@@ -8,7 +8,7 @@ credit_text: |-
   Photographer: Thistle Brown
 
   Styling: Andrew Sauceda
-thumbnail_image: "/uploads/zhe%20zhe%20standing_final%20BG_RGB_JPG.jpg"
+thumbnail_image: "/uploads/beatrice-71a140.jpg"
 images:
 - path: "/uploads/will%20_%20taylor%20bow.jpg"
   class: half
