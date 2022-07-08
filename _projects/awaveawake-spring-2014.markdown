@@ -3,7 +3,7 @@ title: AWAVEAWAKE - Spring 2014
 date: 2017-01-27 21:16:00 Z
 categories:
 - advertising
-position: 80
+position: 81
 credit_text: |-
   Photographer: Annabelle Mehran
 
