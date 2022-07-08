@@ -2,7 +2,8 @@
 title: MILES ALDRIDGE x ZERO ZERO VOLUME I
 date: 2017-01-20 19:37:00 Z
 categories:
-- special
+- special projects
+- editorial
 position: 60
 credit_text: |-
   Photographer: Miles Aldridge
@@ -10,7 +11,7 @@ credit_text: |-
   Styling: Nicola Formichetti
 
   Artist: Kaimin
-thumbnail_image: "/uploads/00Black5.jpg"
+thumbnail_image: "/uploads/15-d1fab6.jpeg"
 images:
 - path: "/uploads/00Black4(1).jpg"
   class: full
