@@ -7,6 +7,7 @@ position: 33
 credit_text: |-
   Photographer: Miles Aldridge
   Creative Directo: Nicola Formichetti
+  Artist: KAIMIN
 thumbnail_image: "/uploads/2.jpeg"
 images:
 - path: "/uploads/1.jpeg"
