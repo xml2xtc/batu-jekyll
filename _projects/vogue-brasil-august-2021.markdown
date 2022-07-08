@@ -7,7 +7,7 @@ position: 10
 credit_text: |-
   PHOTOGRAPHER: ZEE NUNES
   FASHION DIRECTOR: PEDRO SALES
-thumbnail_image: "/uploads/VG515_CAPAS_INSTA2.jpg"
+thumbnail_image: "/uploads/5-3d6173.jpg"
 images:
 - path: "/uploads/VG515_CAPAS_INSTA2-b7cc54.jpg"
   class: half
@@ -34,6 +34,8 @@ images:
 - path: "/uploads/7-d72265.jpg"
   class: half
 - path: "/uploads/10-f14de1.jpg"
+  class: half
+- path: "/uploads/1-8871c2.jpg"
   class: half
 ---
 
