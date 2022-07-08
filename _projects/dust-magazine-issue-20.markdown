@@ -12,7 +12,7 @@ credit_text: |-
   MODEL: MILA JOVOVICH & EVER ANDERSON
 thumbnail_image: "/uploads/Luigi%20and%20Iango%20-%20Beat%20Bolliger%20DUST20%20DEF%20(1)%20(dragged)%202.jpg"
 images:
-- path: "/uploads/MAIN-2c91dd.jpg"
+- path: "/uploads/MAIN-2815d4.jpg"
   class: full
 - path: "/uploads/dust-20-3.jpg"
   class: half
