@@ -5,7 +5,7 @@ categories:
 - video
 - advertising
 position: 13
-thumbnail_image: "/uploads/6m4cn0.gif"
+thumbnail_image: "/uploads/ezgif.com-gif-maker.gif"
 has_video: true
 video_embeds:
 - <iframe src="https://player.vimeo.com/video/727984726?h=373552722d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
