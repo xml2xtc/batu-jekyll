@@ -5,7 +5,7 @@ categories:
 - advertising
 position: 11
 credit_text: "Photographer: KT Auleta \n\nModel: Chloe Sevigny"
-thumbnail_image: "/uploads/MAIN-c9d6f3.jpg"
+thumbnail_image: "/uploads/MAIN-8597ab.jpg"
 images:
 - path: 
   class: full
