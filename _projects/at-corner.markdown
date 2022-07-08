@@ -21,7 +21,7 @@ images:
   class: half
 - path: "/uploads/postfiles2.naver.jpg"
   class: half
-- path: 
+- path: "/uploads/MAIN-f708f1.jpg"
   class: half
 ---
 
