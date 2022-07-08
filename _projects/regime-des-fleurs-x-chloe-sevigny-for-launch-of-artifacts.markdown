@@ -34,6 +34,6 @@ images:
 - path: "/uploads/Regimes%20Des%20Fleurs-1637.jpg"
   class: half
 - path: "/uploads/SaintTherese1_4%20(1).jpg"
-  class: hlaf
+  class: half
 ---
 
