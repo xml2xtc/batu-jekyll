@@ -8,13 +8,17 @@ credit_text: |-
   Photographer: Gui Paganini
 
   Stylist: Yasmine Sterea
-thumbnail_image: "/uploads/CAPA_BELLA_BCA_B.jpg"
+thumbnail_image: "/uploads/Bella-Hadid-Vogue-Brazil-September-2017-Cover-Photoshoot01.jpg"
 images:
-- path: "/uploads/CAPA_BELLA_BCA_B-3620cc.jpg"
+- path: "/uploads/Bella-Hadid-Vogue-Brazil-September-2017-Cover-Photoshoot02.jpg"
   class: half
-- path: "/uploads/CAPA_BELLA_BCA_A.jpg"
+- path: "/uploads/Bella-Hadid-Vogue-Brazil-September-2017-Cover-Photoshoot01-4bc53b.jpg"
   class: half
-- path: "/uploads/CAPA_BELLA_ASS.jpg"
+- path: "/uploads/bella-hadid-vogue-brazil-september-2017-03-620x82125610476711b55a887e58c1fa6aca21c_thumb.jpg"
   class: half
+- path: "/uploads/Bella-Hadid-by-Gui-Paganini15.webp"
+  class: half
+- path: "/uploads/Bella-Hadid-Vogue-Brazil-September-2017-Cover-Photoshoot06.jpg"
+  class: full
 ---
 
