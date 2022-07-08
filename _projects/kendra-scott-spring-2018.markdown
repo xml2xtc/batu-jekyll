@@ -4,19 +4,31 @@ date: 2018-03-14 20:25:00 Z
 categories:
 - advertising
 position: 45
-thumbnail_image: "/uploads/KS-MEX-DAY2-46113.jpg"
+credit_text: |-
+  Creative Director: Jan Makowsky
+  Photographer: Trever Hoehne
+  Stylist: Haley Roemen
+  Make up: Alyssa Garcia
+  Hair: Stacey Tan
+thumbnail_image: "/uploads/KS-MEX-DAY2-43946.jpg"
 images:
-- path: "/uploads/KS-MEX-DAY1-43326.jpg"
+- path: "/uploads/KS-MEX-DAY1-41473.jpg"
   class: half
+- path: "/uploads/KS-MEX-DAY1-41550.jpg"
+  class: half
+- path: "/uploads/KS-MEX-DAY2-46113.jpg"
+  class: full
 - path: "/uploads/KS-MEX-DAY1-42603.jpg"
   class: half
-- path: "/uploads/KS-MEX-DAY2-44434.jpg"
-  class: full
-- path: "/uploads/KS-MEX-DAY2-45365.jpg"
-  class: full
-- path: "/uploads/KS-MEX-DAY4-50301.jpg"
+- path: "/uploads/KS-MEX-DAY1-43326.jpg"
   class: half
-- path: "/uploads/KS-MEX-DAY4-49716.jpg"
+- path: "/uploads/KS-MEX-DAY4-49566.jpg"
+  class: full
+- path: "/uploads/KS-MEX-DAY4-50351.jpg"
+  class: full
+- path: "/uploads/KS-MEX-DAY3-47569-NoAlima.jpg"
+  class: half
+- path: "/uploads/KS-MEX-DAY3-48327.jpg"
   class: half
 - path: "/uploads/KS-MEX-DAY4-49744.jpg"
   class: full
