@@ -19,9 +19,9 @@ credit_text: |-
   MAKE UP: Georgi Sandev
 
   SET DESIGN: JACK FLANAGAN
-thumbnail_image: "/uploads/615C9E28-87D8-41D9-B219-A72EE64DBCF6-d1fc63.JPG"
+thumbnail_image: "/uploads/9320F2CF-1E1E-4C2B-BFF5-93139405B81F-d1ebf3.JPG"
 images:
-- path: "/uploads/615C9E28-87D8-41D9-B219-A72EE64DBCF6-192a31.JPG"
+- path: "/uploads/9320F2CF-1E1E-4C2B-BFF5-93139405B81F.JPG"
   class: half
 - path: "/uploads/A63911FF-B55A-4597-8933-31821E9D5CE0.JPG"
   class: half
