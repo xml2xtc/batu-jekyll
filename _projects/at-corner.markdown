@@ -7,7 +7,7 @@ position: 11
 credit_text: "Photographer: KT Auleta \n\nModel: Chloe Sevigny"
 thumbnail_image: "/uploads/MAIN-c9d6f3.jpg"
 images:
-- path: "/uploads/postfiles10.naver.jpg"
+- path: 
   class: full
 - path: "/uploads/postfiles8.naver.jpg"
   class: half
@@ -23,5 +23,7 @@ images:
   class: half
 - path: "/uploads/MAIN-f708f1.jpg"
   class: half
+- path: 
+  class: 
 ---
 
