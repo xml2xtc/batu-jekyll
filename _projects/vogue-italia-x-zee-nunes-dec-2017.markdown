@@ -12,5 +12,7 @@ images:
   class: half
 - path: "/uploads/Screen%20Shot%202022-07-08%20at%2012.57.53%20PM.png"
   class: half
+- path: "/uploads/Screen%20Shot%202022-07-08%20at%201.09.25%20PM.png"
+  class: half
 ---
 
