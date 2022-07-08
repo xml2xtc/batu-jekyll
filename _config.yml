@@ -47,7 +47,7 @@ defaults:
     background_image: ''
     is_video: false
     video_url: ''
-name: Batu
+name: https://batuprojects.com/work.html
 highlighter: rouge
 exclude:
 - node_modules
