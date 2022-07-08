@@ -29,7 +29,7 @@ images:
   class: half
 - path: "/uploads/02_DE_V3-compressed.jpg"
   class: full
-- path: "/uploads/09_DE_V2.jpg"
+- path: "/uploads/03_DE_V2.jpg"
   class: half
 - path: "/uploads/05_DE_V3.jpg"
   class: half
