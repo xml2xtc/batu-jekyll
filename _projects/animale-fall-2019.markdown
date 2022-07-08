@@ -20,7 +20,7 @@ images:
 - path: "/uploads/20190205_ZEE_ANIMALE1529%20copy.jpg"
   class: half
 - path: "/uploads/20190205_ZEE_ANIMALE1519%20copy.jpg"
-  class: full
+  class: half
 - path: "/uploads/20190205_ZEE_ANIMALE0543%20copy.jpg"
   class: full
 ---
