@@ -8,15 +8,21 @@ credit_text: |-
   Photographer: Victor Demarchelier
 
   Model: Lea Seydoux
-thumbnail_image: "/uploads/DD_FW12_06.jpg"
+thumbnail_image: "/uploads/MAIN-045756.jpg"
 images:
-- path: "/uploads/DD_FW12_06-8c8cc0.jpg"
-  class: full
-- path: "/uploads/DD_FW12_01.jpg"
+- path: "/uploads/MAIN-c77468.jpg"
   class: full
 - path: "/uploads/DD_FW12_02.jpg"
   class: full
-- path: "/uploads/MAIN-7157ce.jpg"
+- path: "/uploads/DD_FW12_01.jpg"
   class: full
+- path: "/uploads/DD_FW12_04.jpg"
+  class: full
+- path: "/uploads/DD_FW12_06.jpg"
+  class: full
+- path: "/uploads/DD_FW12_03.jpg"
+  class: full
+- path: 
+  class: 
 ---
 
