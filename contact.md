@@ -2,11 +2,11 @@
 title: CONTACT
 position: 0
 Field name: 
-layout: default
+layout: project
 ---
 
 
-NEW YORK
+NEW YORKdfdf
 2 E Broadway ste 1006
 New York, NY 10038
 
