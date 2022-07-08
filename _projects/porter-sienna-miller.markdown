@@ -12,23 +12,23 @@ thumbnail_image: "/uploads/Sienna%20Cover_Desktop.jpg"
 images:
 - path: "/uploads/8.jpg"
   class: full
-- path: "/uploads/2-2b0c03.jpg"
-  class: half
-- path: "/uploads/1-88b55c.jpg"
-  class: half
-- path: "/uploads/4-1e9256.jpg"
+- path: "/uploads/4.jpg"
   class: half
 - path: "/uploads/10.jpg"
   class: half
-- path: "/uploads/6-6b910d.jpg"
+- path: "/uploads/2-0def66.jpg"
   class: half
-- path: "/uploads/5-fe2402.jpg"
+- path: "/uploads/1.jpg"
+  class: half
+- path: "/uploads/7.jpg"
+  class: half
+- path: "/uploads/6.jpg"
   class: half
 - path: "/uploads/9.jpg"
   class: full
-- path: "/uploads/7.jpg"
+- path: "/uploads/5-c939d1.jpg"
   class: half
-- path: "/uploads/3-b7b963.jpg"
+- path: 
   class: half
 ---
 
