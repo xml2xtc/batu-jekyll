@@ -6,8 +6,6 @@ categories:
 position: 18
 thumbnail_image: "/uploads/Portfolio%20Cover_1_desktop.jpg"
 images:
-- path: "/uploads/Portfolio%20Cover_1_desktop-07db36.jpg"
-  class: half
 - path: "/uploads/Portfolio%20Cover_CYNTHIA.jpg"
   class: half
 - path: "/uploads/Portfolio%20Cover_FLORENCE.jpg"
@@ -20,5 +18,7 @@ images:
   class: half
 - path: "/uploads/Portfolio%20Cover_ZAZIE.jpg"
   class: half
+- path: "/uploads/Portfolio%20Cover_1_desktop-9d3605.jpg"
+  class: full
 ---
 
