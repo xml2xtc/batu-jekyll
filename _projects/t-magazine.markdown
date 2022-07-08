@@ -3,7 +3,7 @@ title: T MAGAZINE
 date: 2017-01-20 19:11:00 Z
 categories:
 - editorial
-position: 64
+position: 65
 credit_text: 'Photographer: Tyrone Lebon'
 thumbnail_image: "/uploads/Main-8c03de.jpg"
 images:
