@@ -3,7 +3,7 @@ title: KENDRA SCOTT - SPRING 2018
 date: 2018-03-14 20:25:00 Z
 categories:
 - advertising
-position: 43
+position: 44
 thumbnail_image: "/uploads/KS-MEX-DAY2-46113.jpg"
 images:
 - path: "/uploads/KS-MEX-DAY1-43326.jpg"

@@ -4,6 +4,7 @@ date: 2022-07-08 02:26:00 Z
 categories:
 - video
 - advertising
+position: 13
 thumbnail_image: "/uploads/6m4cn0.gif"
 has_video: true
 video_embeds:
