@@ -10,10 +10,10 @@ credit_text: |-
   Fashion Director: Pedro Sales
 
   Model: Karen Elson
-thumbnail_image: "/uploads/VG486_P96-105_MODA_KAREN9.jpg"
+thumbnail_image: "/uploads/VG486_P96-105_MODA_KAREN5-22af08.jpg"
 images:
 - path: "/uploads/VG486_CAPA%20copy-3d83c5.jpg"
-  class: full
+  class: half
 - path: "/uploads/VG486_P96-105_MODA_KAREN.jpg"
   class: half
 - path: "/uploads/VG486_P96-105_MODA_KAREN2.jpg"
